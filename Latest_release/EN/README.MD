@@ -51,7 +51,7 @@ Selon le produit, vous trouverez ici 1 ou 2 types de documentation en Anglais :
 # ![Flag EN>](../../_media/Flag_EN.png "English") Rule on files english names  
 This file contains all finalized English PDF documents.  
 Only the latest versions are in this directory.  
-Earlier versions are in "** Working\_folder **".  
+Earlier versions are in "**Working\_folder**".  
 Since the editorial work is done on a voluntary basis, some products do not yet have translation.  
 
 Depending on the product, you will find here 1 or 2 types of documentation in English:  

@@ -51,7 +51,7 @@ Selon le produit, vous trouverez ici 1,2 ou 3 types de documentation en Françai
 # ![Flag EN>](../../_media/Flag_EN.png "English") Rule on files french names  
 This file contains all finalized French PDF documents.  
 Only the latest versions are in this directory.  
-Earlier versions are in "** Working\_folder **".  
+Earlier versions are in "**Working\_folder**".  
 Since the editorial work is done on a voluntary basis, some products do not yet have translation.  
 
 Depending on the product, you will find here 1,2 or 3 types of documentation in French:  
