@@ -1,6 +1,6 @@
-![Logo Dépos](../../_media/Logo-NonofficialFrSkydocuments-h41.png "Traductions de documents FrSky") 
-[![Flag FR>](../../_media/Flag_FRh11.png "Français")](#FR_Section) **Bienvenue** / [Cliquez sur votre langue](#FR_Section)
-[![Flag EN>](../../_media/Flag_ENh11.png "English")](#EN_Section) **Welcome** / [Click on your language](#EN_Section)
+![Logo Dépos](../../_media/Logo-NonofficialFrSkydocuments-h41.png "Traductions de documents FrSky")  
+[![Flag FR>](../../_media/Flag_FRh11.png "Français")](#FR_Section) **Bienvenue** / [Cliquez sur votre langue](#FR_Section)  
+[![Flag EN>](../../_media/Flag_ENh11.png "English")](#EN_Section) **Welcome** / [Click on your language](#EN_Section)  
 
 ----------------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Selon le produit, vous trouverez ici 1,2 ou 3 types de documentation en Françai
 | Version **Inédit**|Documentation **inédite** sur un produit ou une procédure                         |Le nom fichier contient `vInédit` avant son numéro de version|
 
 
-### ![Puce>](../../_media/Logo-PuceTriJN.png) Tous les documents français finalisés sont ici : ![Book](../../_media/Logo-Book.png "Doc PDF") ["Latest_Release/FR"](../../Latest_Release/FR) ![Book](../../_media/Logo-Book.png "Doc PDF")
+### ![Puce>](../../_media/Logo-PuceTriJN.png) Tous les documents français finalisés sont ici : ![Book](../../_media/Logo-Book.png "Doc PDF") ["Latest_release/FR"](../../Latest_release/FR) ![Book](../../_media/Logo-Book.png "Doc PDF")
 
 <br>
 
@@ -62,7 +62,7 @@ Depending on the product, you will find here 1,2 or 3 types of documentation in 
 | **Plus** version  |Improved translation of the FrSky document **enriched with unofficial information**|The file name contains `vPlus` before its version number     |
 | **Inédit** version|**Unpublished** documentation on a product or procedure                            |The file name contains `vInédit` before its version number   |
 
-### ![Puce>](../../_media/Logo-PuceTriJN.png) All finalized french documents are here: ![Book](../../_media/Logo-Book.png "Doc PDF") ["Latest_Release/FR"](../../Latest_Release/FR) ![Book](../_media/Logo-Book.png "Doc PDF")
+### ![Puce>](../../_media/Logo-PuceTriJN.png) All finalized french documents are here: ![Book](../../_media/Logo-Book.png "Doc PDF") ["Latest_release/FR"](../../Latest_release/FR) ![Book](../../_media/Logo-Book.png "Doc PDF")
 <br>
 
 ![<Logo CCBYSA>](../../_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Author : Ceeb182@laposte.net / 2017 / Source : github/ceeb182/nonofficial_frsky_doc*

@@ -17,8 +17,8 @@
 Ce dossier comprend un répertoire par produit.
 Chaque répertoire produit contient 3 sous-répertoires :
  - ![Folder_icon>](../_media/Logo-Folder.png) "**Stock**" pour toutes les données récoltées pour la création de votre document
- - ![Folder_icon>](../_media/Logo-Folder.png) "**Source**" contient toutes les versions des documents au format SVG, accompagnées de sa note de version en MD
- - ![Folder_icon>](../_media/Logo-Folder.png) "**Release**" contient toutes les versions des documents au format PDF, accompagnées de sa note de version en MD
+ - ![Folder_icon>](../_media/Logo-Folder.png) "**Source**" contient toutes les versions des documents au format SVG
+ - ![Folder_icon>](../_media/Logo-Folder.png) "**Release**" contient toutes les versions des documents au format PDF, accompagnées de sa note de version en MD (MarkDown)
 
 Pour l'exemple, le schéma ci-dessous illustre l'arborescence de fichier développé pour le produit "**Receiver-X8R**" :
 ```
@@ -61,12 +61,12 @@ Working_folder/    ; Contient tous les documents de travail : informations, lien
 
 Il peut y avoir 3 types de documentation :
 
-- Version **Base** : une traduction <label style="text-decoration: underline;";>la plus fidèle possible</label> du document FrSky 
-- Version **Plus** : une traduction améliorée du document FrSky <label style="text-decoration: underline;";>enrichie d'informations</label> non-officielles
-- Version **Inédit** : une documentation <label style="text-decoration: underline;";>inédite</label> sur un produit ou une procédure
+- Version **Base** : une traduction *la plus fidèle possible* du document FrSky 
+- Version **Plus** : une traduction améliorée du document FrSky *enrichie d'informations* non-officielles
+- Version **Inédit** : une documentation *inédite* sur un produit ou une procédure
 
 
-### ![Puce>](../_media/Logo-PuceTriJN.png) Tous les documents français finalisés sont ici : ![Book](../_media/Logo-Book.png "Doc PDF") ["Latest_Release/FR"](../Latest_Release/FR) ![Book](../_media/Logo-Book.png "Doc PDF")
+### ![Puce>](../_media/Logo-PuceTriJN.png) Tous les documents français finalisés sont ici : ![Book](../_media/Logo-Book.png "Doc PDF") ["Latest_release/FR"](../Latest_release/FR) ![Book](../_media/Logo-Book.png "Doc PDF")
 
 <br>
 
@@ -91,8 +91,8 @@ This folder contains one directory per product.
 Each product directory contains 3 subdirectories:
 
  - ![Folder_icon>](../_media/Logo-Folder.png) "**Stock**" for all the data collected for the creation of your document
- - ![Folder_icon>](../_media/Logo-Folder.png) "**Source**" contains all the versions of the documents in SVG format, followed by his release note in MD
- - ![Folder_icon>](../_media/Logo-Folder.png) "**Release**" contains all the versions of the documents in PDF format, followed by his release note in MD
+ - ![Folder_icon>](../_media/Logo-Folder.png) "**Source**" contains all the versions of the documents in SVG format
+ - ![Folder_icon>](../_media/Logo-Folder.png) "**Release**" contains all the versions of the documents in PDF format, followed by his release note in MD (MarkDown)
 
 For the example, the diagram below illustrates the file tree developed for the product "**Receiver-X8R**":
 ```
@@ -135,12 +135,12 @@ Working_folder/    ; Contains all working documents: information, web links, pho
 
 There may be 3 types of documentation:
 
-- **Basic** version: the <label style="text-decoration: underline;";>most faithful</label> translation of the FrSky document
-- **Plus** version: an improved translation of the FrSky document <label style="text-decoration: underline;";>enriched with unofficial information</label>
-- **Unpublished** version: a <label style="text-decoration: underline;";>new</label> documentation on a product or a procedure
+- **Basic** version: the *most faithful* translation of the FrSky document
+- **Plus** version: an improved translation of the FrSky document *enriched with unofficial information*
+- **Unpublished** version: a *new* documentation on a product or a procedure
 
-### ![Puce>](../_media/Logo-PuceTriJN.png) All finalized french documents are here: ![Book](../_media/Logo-Book.png "Doc PDF") ["Latest_Release/FR"](../Latest_Release/FR) ![Book](../_media/Logo-Book.png "Doc PDF")
-### ![Puce>](../_media/Logo-PuceTriJN.png) All finalized english documents are here: ![Book](../_media/Logo-Book.png "Doc PDF") ["Latest_Release/EN"](../Latest_Release/EN) ![Book](../_media/Logo-Book.png "Doc PDF")
+### ![Puce>](../_media/Logo-PuceTriJN.png) All finalized french documents are here: ![Book](../_media/Logo-Book.png "Doc PDF") ["Latest_release/FR"](../Latest_release/FR) ![Book](../_media/Logo-Book.png "Doc PDF")
+### ![Puce>](../_media/Logo-PuceTriJN.png) All finalized english documents are here: ![Book](../_media/Logo-Book.png "Doc PDF") ["Latest_release/EN"](../Latest_release/EN) ![Book](../_media/Logo-Book.png "Doc PDF")
 <br>
 
 ![<Logo CCBYSA>](../_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Author : Ceeb182@laposte.net / 2017 / Source : github/ceeb182/nonofficial_frsky_doc*
