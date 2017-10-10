@@ -41,7 +41,7 @@ Ce projet et tous ceux qui y participent sont régis par un [code de conduite](C
 C'est la première fois que je met en place et que j'utilise l'outil Git et les services de GitHub.  
 Je ne suis ni programmeur, ni webmaster.  
 J'apprends au fur et à mesure de l'évolution de ce projet.  
-**Aussi, je vous remercie par la patience et l'indulgence dont vous ferez preuve à mon égard.**
+**Aussi, je vous remercie pour la patience et l'indulgence dont vous ferez preuve à mon égard.**
 Je reste à l'écoute de vos conseils. Les documents décrivant chaque partie du projet (notammment les README.MD, CONTRIBUTING.MD) pourront évoluer.
 
 <a name="FR_Wish"></a>
