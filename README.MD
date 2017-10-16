@@ -5,7 +5,7 @@
 
 ----------------------------------------------------------------------------------
 
-![Logo Dépos](_media/Logo-NonofficialFrSkydocuments-h41.png "Traductions de documents FrSky") <a name="FR_Section"></a>
+![Nonofficial FrSky documents](_media/Logo-NonofficialFrSkydocuments-h41.png "Traductions de documents FrSky") <a name="FR_Section"></a>
 
 ----------------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 >FrSky n'est pas responsable de l'utilisation des documents présents sur ce site.  
 >FrSky est une marque déposée dont le site officiel est https://www.frsky-rc.com/  
 >FrSky a donné un accord de principe à la mise en place de ce dépôt.  
->FrSky est informé de toute nouvelle parution de documents sur ce dépos.  
+>FrSky est informé de toute nouvelle parution de documents sur ce dépôt.  
 >Pour faciliter le contrôle par FrSky :  
 >- l'arborescence des dossiers est volontairement en Anglais  
 >- tous les fichiers `Readme.md` possèdent une section en Anglais  
@@ -32,6 +32,7 @@ Vous trouverez sur ce dépôt 3 types de documentation en Français dans le repe
 - Version **Inédit** : une documentation *inédite* sur un produit ou une procédure
 
 ### Tous les documents finalisés sont ici : ![Book](_media/Logo-Book.png "Doc PDF") ["Latest_release/FR"](Latest_release/FR) ![Book](_media/Logo-Book.png "Doc PDF")
+### Pour consulter la note de version de la dernière mise à jour : [c'est ici !](https://github.com/Ceeb182/Nonofficial_frsky_doc/releases)
 <br>
 
 Vous voulez en savoir plus ? Voici une mini **FAQ** :
@@ -87,7 +88,7 @@ Vous souhaitez en savoir plus sur l'organisation du dépôt : un fichier `README
 
 <a name="FR_Contribute"></a>
 ### ![Puce>](_media/Logo-PuceTriJN.png) Comment contribuer ?
-Aujourd'hui, avec ce dépos nous pouvons collaborer pour :
+Aujourd'hui, avec ce dépôt nous pouvons collaborer pour :
 
 - vérifier et corriger les traductions déjà réalisées : orthographe, grammaire, tournure de phrase...
 - proposer de nouvelles traductions littérales
@@ -102,7 +103,7 @@ Vous préférez contribuer en me soutenant financièrement, alors cliquez sur ce
 
 <a name="FR_Licence"></a>
 ### ![Puce>](_media/Logo-PuceTriJN.png) Quelle est la licence des documents ?
-Les documents sont produits sous la licence "Creative Commons By Sa" (https://creativecommons.org/licenses/by-sa/4.0/) pour permettre au plus grand nombre d'utiliser ce contenu partiellement ou en totalité. Néanmoins, FrSky peut nous demander de retirer ou rectifier tout ou partie du contenu du présent dépos. 
+Les documents sont produits sous la licence "Creative Commons By Sa" (https://creativecommons.org/licenses/by-sa/4.0/) pour permettre au plus grand nombre d'utiliser ce contenu partiellement ou en totalité. Néanmoins, FrSky peut nous demander de retirer ou rectifier tout ou partie du contenu du présent dépôt. 
 
 ![<Logo CCBYSA>](_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Auteur : Ceeb182@laposte.net / 2017 / Source : github/ceeb182/nonofficial_frsky_doc/README.MD*
 <br>
@@ -111,7 +112,7 @@ Les documents sont produits sous la licence "Creative Commons By Sa" (https://cr
 
 -------------
 
-![Logo Dépos](_media/Logo-NonofficialFrSkydocuments-h41.png "Traductions de documents FrSky")<a name="EN_Section"></a>
+![Nonofficial FrSky documents](_media/Logo-NonofficialFrSkydocuments-h41.png "Translations for FrSky documents")<a name="EN_Section"></a>
 
 -------------
 
@@ -142,6 +143,7 @@ You will find, on this repository, 3 types of documentation in French in the dir
 - **Unpublished** version: a *new* documentation on a product or a procedure
 
 ### All finalized documents are here: ![Book](_media/Logo-Book.png "Doc PDF") ["Latest_release/FR"](Latest_release/FR) ![Book](_media/Logo-Book.png "Doc PDF")
+### To see the release note for the latest update: [click here !](https://github.com/Ceeb182/Nonofficial_frsky_doc/releases)
 <br>
 
 You want to know more ? Here is a tiny **FAQ** :
