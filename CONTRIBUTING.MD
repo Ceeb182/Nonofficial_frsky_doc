@@ -41,7 +41,7 @@ Ce projet et tous ceux qui y participent sont régis par un [code de conduite](C
 C'est la première fois que je met en place et que j'utilise l'outil Git et les services de GitHub.  
 Je ne suis ni programmeur, ni webmaster.  
 J'apprends au fur et à mesure de l'évolution de ce projet.  
-**Aussi, je vous remercie par la patience et l'indulgence dont vous ferez preuve à mon égard.**
+**Aussi, je vous remercie pour la patience et l'indulgence dont vous ferez preuve à mon égard.**
 Je reste à l'écoute de vos conseils. Les documents décrivant chaque partie du projet (notammment les README.MD, CONTRIBUTING.MD) pourront évoluer.
 
 <a name="FR_Wish"></a>
@@ -302,7 +302,7 @@ Remember that these translations are carried out by volunteers and that it takes
 
    Note : For ease of reading, you can format your *MarkDown* file as shown in this [guide](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
 2. **Case 2 - I know how to use Git and GitHub**  
-   You can propose the file(s) of your literal translation by performing a `Pull request` from your branch to the `Next_release` branch, as described in **[Git and GitHub workflow](#FR_Workflow)**.
+   You can propose the file(s) of your literal translation by performing a `Pull request` from your branch to the `Next_release` branch, as described in **[Git and GitHub workflow](#EN_Workflow)**.
 
 
 <a name="EN_Drawing"></a>
@@ -320,7 +320,7 @@ Be sure to use the latest version of this software at http://www.inkscape.org/.
    - In addition to your message, at the bottom, click `selecting them` to attach your graphic part in SVG format
   
 2. **Case 2 - I know how to use Git and GitHub**  
-   You can propose the SVG file(s) by performing a `Pull request` from your branch to the `Next_release` branch, as described in **[Git and GitHub workflow](#FR_Workflow)**.
+   You can propose the SVG file(s) by performing a `Pull request` from your branch to the `Next_release` branch, as described in **[Git and GitHub workflow](#EN_Workflow)**.
 
 
 <a name="EN_Integral"></a>
@@ -333,7 +333,7 @@ You are in the event that :
 - you respect the organization of the repository
 - you use the GitHub and Git versioning tool.
 
-Propose this file set by performing a `Pull request` from your branch to the `Next_release` branch, as described in **[Git and GitHub workflow](#FR_Workflow)**.
+Propose this file set by performing a `Pull request` from your branch to the `Next_release` branch, as described in **[Git and GitHub workflow](#EN_Workflow)**.
 
 
 <a name="EN_TranslateOL"></a>
@@ -348,7 +348,7 @@ You will find in the folder **"Working_folder/`Product directory`/`Product name`
    - Assign you this `Issue`
    - In addition to your message, click `selecting them` to attach your newly translated page to SVG format.  
 2. **Case 2 - I know how to use Git and GitHub**  
-  You can propose the translation(s) in SVG format by performing a `Pull request` from your branch to the `Next_release` branch, as described in **[Git and GitHub workflow](#FR_Workflow)**.  
+  You can propose the translation(s) in SVG format by performing a `Pull request` from your branch to the `Next_release` branch, as described in **[Git and GitHub workflow](#EN_Workflow)**.  
 
 
 <a name="EN_Plus"></a>
@@ -378,7 +378,7 @@ Whenever possible, write or attach a message indicating:
    - In addition to your message, click `selecting them` to attach an archive file of your documents.
 
 2. **Case 2 - I know how to use Git and GitHub**  
-   You can propose the additional information by performing a `Pull request` from your branch to the `Next_release` branch, as described in **[Git and GitHub workflow](#FR_Workflow)**.  
+   You can propose the additional information by performing a `Pull request` from your branch to the `Next_release` branch, as described in **[Git and GitHub workflow](#EN_Workflow)**.  
 
 
 <a name="EN_Workflow"></a>
