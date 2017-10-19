@@ -11,7 +11,7 @@
 Origine : XM+ - User manual - vEN 2016-11-21.pdf  
 Date d'édition : 2017/10/19  
 Auteur(s) : Ceeb182 (Ceeb182@laposte.net)  
-Correcteur(s) :  
+Correcteur(s) : @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
@@ -38,7 +38,7 @@ Bien que la traduction version "Base" se veuille la plus fidèle possible à la 
 Origin : XM+ - User manual - vEN 2016-11-21.pdf  
 Release Date : 2017/10/19  
 Author(s) : Ceeb182 (Ceeb182@laposte.net)  
-Proofreader(s) :  
+Proofreader(s) : @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
