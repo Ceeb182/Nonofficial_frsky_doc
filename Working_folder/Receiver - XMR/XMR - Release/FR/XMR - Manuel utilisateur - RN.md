@@ -11,7 +11,7 @@
 Origine : XMR - User Manual -vEN 2017-02-08.pdf  
 Date d'édition : 2017/10/23  
 Auteur(s) : Ceeb182 (Ceeb182@laposte.net)  
-Correcteur(s) :   
+Correcteur(s) : @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
@@ -32,7 +32,7 @@ Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa
 Origin : XMR - User Manual -vEN 2017-02-08.pdf  
 Release Date : 2017/10/23  
 Author(s) : Ceeb182 (Ceeb182@laposte.net)  
-Proofreader(s) :   
+Proofreader(s) : @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
