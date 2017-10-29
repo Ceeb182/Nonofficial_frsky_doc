@@ -52,7 +52,7 @@ Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa
 **2017-10-28 22:00 >> vFr3**
 - "Caractéristiques" section :
   * spelling : "Caractéri**s**tiques", "gr**â**ce", 2x "rafra**î**chissement", "param**é**trable" 
-  * grammar : "Compatible" sans "s"
+  * grammar : "Compatible" without "s"
 - "Connexion" section : 2x expression "qu'un" into "d'un"
 - "Alimentation électrique" section : grammar : 2x "si **les** tension**s** des sources d'alimentations **sont**"
 - "Protection contre les surcharges" section : spelling 4x "ambi**a**nt", "ambi**a**nte", "recomm**a**ndé"
