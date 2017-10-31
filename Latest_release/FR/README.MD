@@ -1,68 +1,124 @@
-![Logo Dépos](../../_media/Logo-NonofficialFrSkydocuments-h41.png "Traductions de documents FrSky")  
-[![Flag FR>](../../_media/Flag_FRh11.png "Français")](#FR_Section) **Bienvenue** / [Cliquez sur votre langue](#FR_Section)  
-[![Flag EN>](../../_media/Flag_ENh11.png "English")](#EN_Section) **Welcome** / [Click on your language](#EN_Section)  
+[![Logo Dépos](../_media/Logo-NonofficialFrSkydocuments-h41.png "Traductions de documents FrSky")](https://github.com/Ceeb182/Nonofficial_frsky_doc)  
+
 
 ----------------------------------------------------------------------------------
 
-### Nonofficial\_frsky\_doc/Latest_release/FR <a name="FR_Section"></a>  
+### Nonofficial\_frsky\_doc/Latest_release/FR  
 
 ----------------------------------------------------------------------------------
 
->## ![Warning>](../../_media/Logo-warning.png "Mise en garde") Attention :  
->Ceci n'est pas un site officiel de FrSky ([voir la totalité de l'avertissement](../../README.MD)).  
->Utilisation du contenu à vos riques et périls  
+# ![<B>](../_media/Flag_FR.png) Documents FrSky en Français
+>## ![Warning>](../_media/Logo-warning.png "Mise en garde") Attention :  
+>Ceci n'est pas un site officiel de FrSky.  
+>FrSky n'est pas responsable de l'utilisation des documents présents sur ce site.  
+>FrSky est une marque déposée dont le site officiel est https://www.frsky-rc.com/  
+>FrSky a donné un accord de principe à la mise en place de ce dépôt.  
+>FrSky est informé de toute nouvelle parution de documents sur ce dépôt.  
+>Pour faciliter le contrôle par FrSky :  
+>- l'arborescence des dossiers est volontairement en Anglais  
+>- tous les fichiers `Readme.md` possèdent une section en Anglais  
+>- toutes les notes de versions comportent une section en Anglais  
+
+## Définition des versions
+- ![<B>](../_media/B-Base.png) : traduction *la plus fidèle possible* du document FrSky 
+- ![<B>](../_media/B-Plus.png) : traduction améliorée du document FrSky *enrichie d'informations* non-officielles
+- ![<B>](../_media/B-Inedit.png) : documentation *inédite* sur un produit ou une procédure
+
+## Sommaire
+- [Récepteur - D8RII Plus](#D8RIIPlus) (8 voies conventionnelles + 2 Analog + 1 Num / D8 / Portée >1,5km)
+- [Récepteur - X8R](#X8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km)
+- [Récepteur - X6R](#X6R) (6 voies conventionnelles + SPort / D8-D16 / Portée >1,5km)
+- [Récepteur - XM](#XM) (Uniquement SBUS / D16 / Portée 300m / Pas de télémétrie)
+- [Récepteur - XM+](#XM+) (Uniquement SBUS / D16 / Portée >1,5km / Pas de télémétrie)
+- [Récepteur - XMR](#XMR) (6 voies conventionnelles / D16 / Portée 600m / Pas de télémétrie)
+- [Capteur - VARI-H](#VARIH) (variomètre précision Haute ou Normale)
+- [Capteur - FLVSS](#FLVSS) (capteur tension pour batterie LiPo)
+- [Accessoire - SCC](#SCC) (Changeur d'Id pour servo SBUS ou capteur SPORT)
+- [Accessoire - RB16](#RB16) (Bus redondant 16 voies pour 2 alimentations et 2 récepteurs + protection contre les surcharges) 
+<BR>
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="X8R"></a>
+## Récepteur - X8R
+![X8R](../_media/Pdt-X8R.png)
+
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [X8R - Manuel utilisateur - vFr5.pdf](X8R%20-%20Manuel%20utilisateur%20-%20vFr5.pdf)** (MaJ 29/09/2017)  
+**![<B>](../_media/Flag_FRh11.png) ![<P>](../_media/B-Plus.png) [X8R - Manuel utilisateur - vPlus.Fr3.pdf](X8R%20-%20Manuel%20utilisateur%20-%20vPlus.Fr3.pdf)** (MaJ 29/09/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="X6R"></a>
+## Récepteur - X6R
+![X6R](../_media/Pdt-X6R.png)
+
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [X6R - Manuel utilisateur - vFr3.pdf](X6R%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 29/09/2017)  
+**![<B>](../_media/Flag_FRh11.png) ![<P>](../_media/B-Plus.png) [X6R - Manuel utilisateur - vPlus.Fr3.pdf](X6R%20-%20Manuel%20utilisateur%20-%20vPlus.Fr3.pdf)** (MaJ 29/09/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="VARIH"></a>
+## Capteur - VARI-H (Variomètre)
+![VARIH](../_media/Pdt-VARIH.png)
+
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Variomètre - Manuel utilisateur - vFr3.pdf](Variomètre%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 29/09/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="SCC"></a>
+## Accessoire - SCC
+![SCC](../_media/Pdt-SCC.png)
+
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [SCC - Manuel utilisateur - vFr2.pdf](SCC%20-%20Manuel%20utilisateur%20-%20vFr2.pdf)** (MaJ 29/09/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="FLVSS"></a>
+## Capteur - FLVSS
+![FLVSS](../_media/Pdt-FLVSS.png)
+
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [FLVSS - Manuel utilisateur - vFr3.pdf](FLVSS%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 24/10/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="RB16"></a>
+## Accessoire - Redundancy bus 16 voies
+![RB16](../_media/Pdt-RB16.png)
+
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Redundancy bus - Manuel utilisateur - vFr3.pdf](Redundancy%20bus%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 18/10/2017)  
+**![<B>](../_media/Flag_FRh11.png) ![<P>](../_media/B-Plus.png) [Redundancy bus - Manuel utilisateur - vPlus.Fr5.pdf](Redundancy%20bus%20-%20Manuel%20utilisateur%20-%20vPlus.Fr5.pdf)**  (MaJ 29/09/2017)  
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Redundancy bus - Procédure de mise à jour - vFr2.pdf](Redundancy%20bus%20-%20Procédure%20de%20mise%20à%20jour%20-%20vFr2.pdf)** (MaJ 29/09/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="D8RIIPlus"></a>
+## Récepteur - D8R-II plus
+![RB16](../_media/Pdt-D8RIIPlus.png)
+
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [D8R-II Plus - Manuel utilisateur - vFr3.pdf](D8R-II%20Plus%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 29/09/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="XM"></a>
+## Récepteur - XM
+![RB16](../_media/Pdt-XM.png)
+
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM - Manuel utilisateur - vFr1.pdf](XM%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 19/10/2017)  
 
 
-# ![Flag FR>](../../_media/Flag_FR.png "Français") Convention sur les noms des fichiers français
-Ce dossier regroupe tous les documents français PDF finalisés.  
-Seule les dernières versions sont dans ce répertoire.  
-Les versions antérieures sont dans "**Working\_folder**".  
-Le travail de rédaction étant réalisé bénévolement, certain produit ne possède pas encore de traduction.
+------------------------------------------------------------------------------------------------------------
 
-Selon le produit, vous trouverez ici 1,2 ou 3 types de documentation en Français :
+<a name="XM+"></a>
+## Récepteur - XM+
+![RB16](../_media/Pdt-XM+.png)
 
-| Type de version   | Caractéristique de la version                                                    | Convention sur les noms de fichier                          |
-|-------------------|----------------------------------------------------------------------------------|:-----------------------------------------------------------:|
-| Version **Base**  |Traduction **la plus fidèle possible** du document FrSky                          |Le fichier comporte uniquement un numéro de version          |
-| Version **Plus**  |Traduction améliorée du document FrSky **enrichie d'informations** non-officielles|Le nom fichier contient `vPlus` avant son numéro de version  |
-| Version **Inédit**|Documentation **inédite** sur un produit ou une procédure                         |Le nom fichier contient `vInédit` avant son numéro de version|
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM+ - Manuel utilisateur - vFr1.pdf](XM+%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 19/10/2017)  
 
+------------------------------------------------------------------------------------------------------------
 
-### ![Puce>](../../_media/Logo-PuceTriJN.png) Tous les documents français finalisés sont ici : ![Book](../../_media/Logo-Book.png "Doc PDF") ["Latest_release/FR"](../../Latest_release/FR) ![Book](../../_media/Logo-Book.png "Doc PDF")
+<a name="XMR"></a>
+## Récepteur - XMR
+![RB16](../_media/Pdt-XMR.png)
 
-<br>
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XMR - Manuel utilisateur - vFr1.pdf](XMR%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 23/10/2017)  
 
-![<Logo CCBYSA>](../../_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Auteur : Ceeb182@laposte.net / 2017 / Source : github/ceeb182/nonofficial_frsky_doc*
-<br>
-<br>
-<br>
-
--------------
-
-### Nonofficial\_frsky\_doc/Latest_release/FR <a name="EN_Section"></a>  
-
--------------
-
-
->## ![Warning>](../../_media/Logo-warning.png "Warning") Warning :<a name="FR_Section"></a>
->This is not a FrSky website ([View entire warning](../../README.MD)).  
->Use at your own risk.  
-
-# ![Flag EN>](../../_media/Flag_EN.png "English") Rule on files french names  
-This file contains all finalized French PDF documents.  
-Only the latest versions are in this directory.  
-Earlier versions are in "**Working\_folder**".  
-Since the editorial work is done on a voluntary basis, some products do not yet have translation.  
-
-Depending on the product, you will find here 1,2 or 3 types of documentation in French:  
-
-| Version Type      | Feature version                                                                   | Convention on Filenames                                     |
-|-------------------|-----------------------------------------------------------------------------------|:-----------------------------------------------------------:|
-| **Base** version  |The **most faithful** translation of the FrSky document                            |The file contains only a version number                      |
-| **Plus** version  |Improved translation of the FrSky document **enriched with unofficial information**|The file name contains `vPlus` before its version number     |
-| **Inédit** version|**Unpublished** documentation on a product or procedure                            |The file name contains `vInédit` before its version number   |
-
-### ![Puce>](../../_media/Logo-PuceTriJN.png) All finalized french documents are here: ![Book](../../_media/Logo-Book.png "Doc PDF") ["Latest_release/FR"](../../Latest_release/FR) ![Book](../../_media/Logo-Book.png "Doc PDF")
-<br>
-
-![<Logo CCBYSA>](../../_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Author : Ceeb182@laposte.net / 2017 / Source : github/ceeb182/nonofficial_frsky_doc*

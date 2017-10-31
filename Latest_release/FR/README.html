@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nonofficial_frsky_doc/FR</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+<style type="text/css">
+.highlight  { background: #ffffff; }
+.highlight .c { color: #999988; font-style: italic } /* Comment */
+.highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+.highlight .k { font-weight: bold } /* Keyword */
+.highlight .o { font-weight: bold } /* Operator */
+.highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
+.highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+.highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+.highlight .gd .x { color: #000000; background-color: #ffaaaa } /* Generic.Deleted.Specific */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gr { color: #aa0000 } /* Generic.Error */
+.highlight .gh { color: #999999 } /* Generic.Heading */
+.highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+.highlight .gi .x { color: #000000; background-color: #aaffaa } /* Generic.Inserted.Specific */
+.highlight .go { color: #888888 } /* Generic.Output */
+.highlight .gp { color: #555555 } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+.highlight .gt { color: #aa0000 } /* Generic.Traceback */
+.highlight .kc { font-weight: bold } /* Keyword.Constant */
+.highlight .kd { font-weight: bold } /* Keyword.Declaration */
+.highlight .kp { font-weight: bold } /* Keyword.Pseudo */
+.highlight .kr { font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+.highlight .m { color: #009999 } /* Literal.Number */
+.highlight .s { color: #d14 } /* Literal.String */
+.highlight .na { color: #008080 } /* Name.Attribute */
+.highlight .nb { color: #0086B3 } /* Name.Builtin */
+.highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+.highlight .no { color: #008080 } /* Name.Constant */
+.highlight .ni { color: #800080 } /* Name.Entity */
+.highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+.highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+.highlight .nn { color: #555555 } /* Name.Namespace */
+.highlight .nt { color: #000080 } /* Name.Tag */
+.highlight .nv { color: #008080 } /* Name.Variable */
+.highlight .ow { font-weight: bold } /* Operator.Word */
+.highlight .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight .mf { color: #009999 } /* Literal.Number.Float */
+.highlight .mh { color: #009999 } /* Literal.Number.Hex */
+.highlight .mi { color: #009999 } /* Literal.Number.Integer */
+.highlight .mo { color: #009999 } /* Literal.Number.Oct */
+.highlight .sb { color: #d14 } /* Literal.String.Backtick */
+.highlight .sc { color: #d14 } /* Literal.String.Char */
+.highlight .sd { color: #d14 } /* Literal.String.Doc */
+.highlight .s2 { color: #d14 } /* Literal.String.Double */
+.highlight .se { color: #d14 } /* Literal.String.Escape */
+.highlight .sh { color: #d14 } /* Literal.String.Heredoc */
+.highlight .si { color: #d14 } /* Literal.String.Interpol */
+.highlight .sx { color: #d14 } /* Literal.String.Other */
+.highlight .sr { color: #009926 } /* Literal.String.Regex */
+.highlight .s1 { color: #d14 } /* Literal.String.Single */
+.highlight .ss { color: #990073 } /* Literal.String.Symbol */
+.highlight .bp { color: #999999 } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #008080 } /* Name.Variable.Class */
+.highlight .vg { color: #008080 } /* Name.Variable.Global */
+.highlight .vi { color: #008080 } /* Name.Variable.Instance */
+.highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+.pl-c {
+    color: #969896;
+}
+
+.pl-c1,.pl-mdh,.pl-mm,.pl-mp,.pl-mr,.pl-s1 .pl-v,.pl-s3,.pl-sc,.pl-sv {
+    color: #0086b3;
+}
+
+.pl-e,.pl-en {
+    color: #795da3;
+}
+
+.pl-s1 .pl-s2,.pl-smi,.pl-smp,.pl-stj,.pl-vo,.pl-vpf {
+    color: #333;
+}
+
+.pl-ent {
+    color: #63a35c;
+}
+
+.pl-k,.pl-s,.pl-st {
+    color: #a71d5d;
+}
+
+.pl-pds,.pl-s1,.pl-s1 .pl-pse .pl-s2,.pl-sr,.pl-sr .pl-cce,.pl-sr .pl-sra,.pl-sr .pl-sre,.pl-src,.pl-v {
+    color: #df5000;
+}
+
+.pl-id {
+    color: #b52a1d;
+}
+
+.pl-ii {
+    background-color: #b52a1d;
+    color: #f8f8f8;
+}
+
+.pl-sr .pl-cce {
+    color: #63a35c;
+    font-weight: bold;
+}
+
+.pl-ml {
+    color: #693a17;
+}
+
+.pl-mh,.pl-mh .pl-en,.pl-ms {
+    color: #1d3e81;
+    font-weight: bold;
+}
+
+.pl-mq {
+    color: #008080;
+}
+
+.pl-mi {
+    color: #333;
+    font-style: italic;
+}
+
+.pl-mb {
+    color: #333;
+    font-weight: bold;
+}
+
+.pl-md,.pl-mdhf {
+    background-color: #ffecec;
+    color: #bd2c00;
+}
+
+.pl-mdht,.pl-mi1 {
+    background-color: #eaffea;
+    color: #55a532;
+}
+
+.pl-mdr {
+    color: #795da3;
+    font-weight: bold;
+}
+
+.pl-mo {
+    color: #1d3e81;
+}
+.task-list {
+padding-left:10px;
+margin-bottom:0;
+}
+
+.task-list li {
+    margin-left: 20px;
+}
+
+.task-list-item {
+list-style-type:none;
+padding-left:10px;
+}
+
+.task-list-item label {
+font-weight:400;
+}
+
+.task-list-item.enabled label {
+cursor:pointer;
+}
+
+.task-list-item+.task-list-item {
+margin-top:3px;
+}
+
+.task-list-item-checkbox {
+display:inline-block;
+margin-left:-20px;
+margin-right:3px;
+vertical-align:1px;
+}
+</style>
+<base href='README.html'/>
+</head>
+<body>
+<p><a href="https://github.com/Ceeb182/Nonofficial_frsky_doc"><img src="../_media/Logo-NonofficialFrSkydocuments-h41.png" alt="Logo Dépos" title="Traductions de documents FrSky"></a>  </p>
+<hr>
+<h3 id="nonofficial-_frsky-_doc-latest_release-fr">Nonofficial_frsky_doc/Latest_release/FR</h3>
+<hr>
+<h1 id="-b-_media-flag_fr-png-documents-frsky-en-fran-ais"><img src="../_media/Flag_FR.png" alt="&lt;B&gt;"> Documents FrSky en Français</h1>
+<blockquote>
+<h2 id="-warning-_media-logo-warning-png-mise-en-garde-attention-"><img src="../_media/Logo-warning.png" alt="Warning&gt;" title="Mise en garde"> Attention :</h2>
+<p>Ceci n&#39;est pas un site officiel de FrSky.<br>FrSky n&#39;est pas responsable de l&#39;utilisation des documents présents sur ce site.<br>FrSky est une marque déposée dont le site officiel est <a href="https://www.frsky-rc.com/">https://www.frsky-rc.com/</a><br>FrSky a donné un accord de principe à la mise en place de ce dépôt.<br>FrSky est informé de toute nouvelle parution de documents sur ce dépôt.<br>Pour faciliter le contrôle par FrSky :  </p>
+<ul>
+<li>l&#39;arborescence des dossiers est volontairement en Anglais  </li><li>tous les fichiers <code>Readme.md</code> possèdent une section en Anglais  </li><li>toutes les notes de versions comportent une section en Anglais  </li></ul>
+</blockquote>
+<h2 id="d-finition-des-versions">Définition des versions</h2>
+<ul>
+<li><img src="../_media/B-Base.png" alt="&lt;B&gt;"> : traduction <em>la plus fidèle possible</em> du document FrSky </li><li><img src="../_media/B-Plus.png" alt="&lt;B&gt;"> : traduction améliorée du document FrSky <em>enrichie d&#39;informations</em> non-officielles</li><li><img src="../_media/B-Inedit.png" alt="&lt;B&gt;"> : documentation <em>inédite</em> sur un produit ou une procédure</li></ul>
+<h2 id="sommaire">Sommaire</h2>
+<ul>
+<li><a href="#D8RIIPlus">Récepteur - D8RII Plus</a> (8 voies conventionnelles + 2 Analog + 1 Num / D8 / Portée &gt;1,5km)</li><li><a href="#X8R">Récepteur - X8R</a> (8 voies conventionnelles + SPort / D8-D16 / Portée &gt;1,5km)</li><li><a href="#X6R">Récepteur - X6R</a> (6 voies conventionnelles + SPort / D8-D16 / Portée &gt;1,5km)</li><li><a href="#XM">Récepteur - XM</a> (Uniquement SBUS / D16 / Portée 300m / Pas de télémétrie)</li><li><a href="#XM+">Récepteur - XM+</a> (Uniquement SBUS / D16 / Portée &gt;1,5km / Pas de télémétrie)</li><li><a href="#XMR">Récepteur - XMR</a> (6 voies conventionnelles / D16 / Portée 600m / Pas de télémétrie)</li><li><a href="#VARIH">Capteur - VARI-H</a> (variomètre précision Haute ou Normale)</li><li><a href="#FLVSS">Capteur - FLVSS</a> (capteur tension pour batterie LiPo)</li><li><a href="#SCC">Accessoire - SCC</a> (Changeur d&#39;Id pour servo SBUS ou capteur SPORT)</li><li><a href="#RB16">Accessoire - RB16</a> (Bus redondant 16 voies pour 2 alimentations et 2 récepteurs + protection contre les surcharges) <BR>
+
+</li></ul>
+<hr>
+<p><a name="X8R"></a></p>
+<h2 id="r-cepteur-x8r">Récepteur - X8R</h2>
+<p><img src="../_media/Pdt-X8R.png" alt="X8R"></p>
+<p><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Base.png" alt="&lt;B&gt;"> <a href="X8R%20-%20Manuel%20utilisateur%20-%20vFr5.pdf">X8R - Manuel utilisateur - vFr5.pdf</a></strong> (MaJ 29/09/2017)<br><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Plus.png" alt="&lt;P&gt;"> <a href="X8R%20-%20Manuel%20utilisateur%20-%20vPlus.Fr3.pdf">X8R - Manuel utilisateur - vPlus.Fr3.pdf</a></strong> (MaJ 29/09/2017)  </p>
+<hr>
+<p><a name="X6R"></a></p>
+<h2 id="r-cepteur-x6r">Récepteur - X6R</h2>
+<p><img src="../_media/Pdt-X6R.png" alt="X6R"></p>
+<p><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Base.png" alt="&lt;B&gt;"> <a href="X6R%20-%20Manuel%20utilisateur%20-%20vFr3.pdf">X6R - Manuel utilisateur - vFr3.pdf</a></strong> (MaJ 29/09/2017)<br><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Plus.png" alt="&lt;P&gt;"> <a href="X6R%20-%20Manuel%20utilisateur%20-%20vPlus.Fr3.pdf">X6R - Manuel utilisateur - vPlus.Fr3.pdf</a></strong> (MaJ 29/09/2017)  </p>
+<hr>
+<p><a name="VARIH"></a></p>
+<h2 id="capteur-vari-h-variom-tre-">Capteur - VARI-H (Variomètre)</h2>
+<p><img src="../_media/Pdt-VARIH.png" alt="VARIH"></p>
+<p><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Base.png" alt="&lt;B&gt;"> <a href="Variomètre%20-%20Manuel%20utilisateur%20-%20vFr3.pdf">Variomètre - Manuel utilisateur - vFr3.pdf</a></strong> (MaJ 29/09/2017)  </p>
+<hr>
+<p><a name="SCC"></a></p>
+<h2 id="accessoire-scc">Accessoire - SCC</h2>
+<p><img src="../_media/Pdt-SCC.png" alt="SCC"></p>
+<p><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Base.png" alt="&lt;B&gt;"> <a href="SCC%20-%20Manuel%20utilisateur%20-%20vFr2.pdf">SCC - Manuel utilisateur - vFr2.pdf</a></strong> (MaJ 29/09/2017)  </p>
+<hr>
+<p><a name="FLVSS"></a></p>
+<h2 id="capteur-flvss">Capteur - FLVSS</h2>
+<p><img src="../_media/Pdt-FLVSS.png" alt="FLVSS"></p>
+<p><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Base.png" alt="&lt;B&gt;"> <a href="FLVSS%20-%20Manuel%20utilisateur%20-%20vFr3.pdf">FLVSS - Manuel utilisateur - vFr3.pdf</a></strong> (MaJ 24/10/2017)  </p>
+<hr>
+<p><a name="RB16"></a></p>
+<h2 id="accessoire-redundancy-bus-16-voies">Accessoire - Redundancy bus 16 voies</h2>
+<p><img src="../_media/Pdt-RB16.png" alt="RB16"></p>
+<p><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Base.png" alt="&lt;B&gt;"> <a href="Redundancy%20bus%20-%20Manuel%20utilisateur%20-%20vFr3.pdf">Redundancy bus - Manuel utilisateur - vFr3.pdf</a></strong> (MaJ 18/10/2017)<br><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Plus.png" alt="&lt;P&gt;"> <a href="Redundancy%20bus%20-%20Manuel%20utilisateur%20-%20vPlus.Fr5.pdf">Redundancy bus - Manuel utilisateur - vPlus.Fr5.pdf</a></strong>  (MaJ 29/09/2017)<br><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Base.png" alt="&lt;B&gt;"> <a href="Redundancy%20bus%20-%20Procédure%20de%20mise%20à%20jour%20-%20vFr2.pdf">Redundancy bus - Procédure de mise à jour - vFr2.pdf</a></strong> (MaJ 29/09/2017)  </p>
+<hr>
+<p><a name="D8RIIPlus"></a></p>
+<h2 id="r-cepteur-d8r-ii-plus">Récepteur - D8R-II plus</h2>
+<p><img src="../_media/Pdt-D8RIIPlus.png" alt="RB16"></p>
+<p><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Base.png" alt="&lt;B&gt;"> <a href="D8R-II%20Plus%20-%20Manuel%20utilisateur%20-%20vFr3.pdf">D8R-II Plus - Manuel utilisateur - vFr3.pdf</a></strong> (MaJ 29/09/2017)  </p>
+<hr>
+<p><a name="XM"></a></p>
+<h2 id="r-cepteur-xm">Récepteur - XM</h2>
+<p><img src="../_media/Pdt-XM.png" alt="RB16"></p>
+<p><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Base.png" alt="&lt;B&gt;"> <a href="XM%20-%20Manuel%20utilisateur%20-%20vFr1.pdf">XM - Manuel utilisateur - vFr1.pdf</a></strong> (MaJ 19/10/2017)  </p>
+<hr>
+<p><a name="XM+"></a></p>
+<h2 id="r-cepteur-xm-">Récepteur - XM+</h2>
+<p><img src="../_media/Pdt-XM+.png" alt="RB16"></p>
+<p><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Base.png" alt="&lt;B&gt;"> <a href="XM+%20-%20Manuel%20utilisateur%20-%20vFr1.pdf">XM+ - Manuel utilisateur - vFr1.pdf</a></strong> (MaJ 19/10/2017)  </p>
+<hr>
+<p><a name="XMR"></a></p>
+<h2 id="r-cepteur-xmr">Récepteur - XMR</h2>
+<p><img src="../_media/Pdt-XMR.png" alt="RB16"></p>
+<p><strong><img src="../_media/Flag_FRh11.png" alt="&lt;B&gt;"> <img src="../_media/B-Base.png" alt="&lt;B&gt;"> <a href="XMR%20-%20Manuel%20utilisateur%20-%20vFr1.pdf">XMR - Manuel utilisateur - vFr1.pdf</a></strong> (MaJ 23/10/2017)  </p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

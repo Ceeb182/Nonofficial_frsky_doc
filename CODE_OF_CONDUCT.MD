@@ -1,6 +1,6 @@
-![Logo Dépos](_media/Logo-NonofficialFrSkydocuments-h41.png "Traductions de documents FrSky")  
-[![Flag FR>](_media/Flag_FRh11.png "Français")](#FR_Section) **Bienvenue** / [Cliquez sur votre langue](#FR_Section)  
-[![Flag EN>](_media/Flag_ENh11.png "English")](#EN_Section) **Welcome** / [Click on your language](#EN_Section)  
+![Logo Dépos](Latest_release/_media/Logo-NonofficialFrSkydocuments-h41.png "Traductions de documents FrSky")  
+[![Flag FR>](Latest_release/_media/Flag_FRh11.png "Français")](#FR_Section) **Bienvenue** / [Cliquez sur votre langue](#FR_Section)  
+[![Flag EN>](Latest_release/_media/Flag_ENh11.png "English")](#EN_Section) **Welcome** / [Click on your language](#EN_Section)  
 
 --------------------------------------------------------------------------------------
 <a name="FR_Section"></a>
