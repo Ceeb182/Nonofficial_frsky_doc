@@ -41,7 +41,7 @@ Selon le produit, vous trouverez ici 1,2 ou 3 types de documentation :
 | Version **Plus**  |Traduction améliorée du document FrSky **enrichie d'informations** non-officielles|Le nom fichier contient `vPlus` avant son numéro de version  |
 | Version **Inédit**|Documentation **inédite** sur un produit ou une procédure                         |Le nom fichier contient `vInédit` avant son numéro de version|  
 
-Note : Inédit (FR) = Unpublished (EN)
+Note : Inédit (FR) = Unpublished (EN)  
 Pour les documents Anglais, la version **Base** est le document officiel FrSky disponible sur https://www.frsky-rc.com/.  
 Volontairement, les documents officiels FrSky ne sont pas ici.  
 
@@ -94,7 +94,7 @@ Depending on the product, you will find here 1,2 or 3 types of documentation :
 | **Plus** version  |Improved translation of the FrSky document **enriched with unofficial information**|The file name contains `vPlus` before its version number     |
 | **Unpublished** version|**Unpublished** documentation on a product or procedure                            |The file name contains `vUnpublished` before its version number   |  
 
-Note : Inédit (FR) = Unpublished (EN)
+Note : Inédit (FR) = Unpublished (EN)  
 For English documents, the **Base** version is the official FrSky document available on https://www.frsky-rc.com/.  
 Voluntarily, FrSky official documents are not here.  
 
