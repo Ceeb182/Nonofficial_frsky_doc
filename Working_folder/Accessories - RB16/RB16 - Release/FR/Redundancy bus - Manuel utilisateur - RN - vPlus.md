@@ -7,17 +7,21 @@
 <a name="FR"></a>
 # Note de version
 
-### Titre : Redundancy bus - Manuel utilisateur - vPlus.Fr5  
+### Titre : Redundancy bus - Manuel utilisateur - vPlus.Fr6  
 Origine : RB16 - User Manual - vEN 2016-06-24.pdf  
-Date d'édition : 29/09/2017  
+Date d'édition : 2017/11/08  
 Auteur(s) : Ceeb182 (Ceeb182@laposte.net)  
-Correcteur(s) : /  
+Correcteur(s) : @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
+**2017-11-08 17:00 >> vPlus.Fr6**
+- 
+
+
 **2017-09-29 17:30 >> vPlus.Fr5**
-- Ajout de la licence "Creative Commons By Sa"
-- Ajout du QR Code
+- Ajout de la licence "Creative Commons By Sa"  
+- Ajout du QR Code  
 
 **2017-07-10 13:35 >> vPlus.Fr4**
 Mise à jour importante concernant les données télémétriques
