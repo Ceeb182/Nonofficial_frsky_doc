@@ -7,17 +7,32 @@
 <a name="FR"></a>
 # Note de version
 
-### Titre : Redundancy bus - Manuel utilisateur - vPlus.Fr5  
+### Titre : Redundancy bus - Manuel utilisateur - vPlus.Fr6  
 Origine : RB16 - User Manual - vEN 2016-06-24.pdf  
-Date d'édition : 29/09/2017  
+Date d'édition : 2017/11/08  
 Auteur(s) : Ceeb182 (Ceeb182@laposte.net)  
-Correcteur(s) : /  
+Correcteur(s) : @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
+**2017-11-08 17:00 >> vPlus.Fr6**
+- Section "Caractéristiques" :
+  * orthographe : "Caractéri**s**tiques", "gr**â**ce", 2x"rafra**î**ssement", "param**é**trable"  
+  * grammaire : "Compatible" sans "s"  
+- Section "Connexion" : 2x expression "qu'un" en "d'un"  
+- Section "Alimentation électrique" : expression "par une batterie **ou un** BEC", "contre les"  
+- Section "Protection contre les surcharges" : orthographe 5x"ambi**a**nt"  
+- Section "Configuration de OpenTx (...) télémétriques" : grammaire "doté**e**"  
+- Section "Description (...) RBCS et RBS" :  
+  * grammaire "doté**e**"  
+  * expression "un **un**"  
+  * orthographe "gr**â**ce"  
+- Section "Génération de capteurs virtuels" : grammaire "enregistre**z**-le"  
+
+
 **2017-09-29 17:30 >> vPlus.Fr5**
-- Ajout de la licence "Creative Commons By Sa"
-- Ajout du QR Code
+- Ajout de la licence "Creative Commons By Sa"  
+- Ajout du QR Code  
 
 **2017-07-10 13:35 >> vPlus.Fr4**
 Mise à jour importante concernant les données télémétriques
@@ -67,13 +82,27 @@ Note : FRB signifie FrSky Redundancy Bus
 <a name="EN"></a>
 # Release note
 
-### Title : Redundancy bus - Manuel utilisateur - vPlus.Fr5  
+### Title : Redundancy bus - Manuel utilisateur - vPlus.Fr6  
 Origin : RB16 - User Manual - vEN 2016-06-24.pdf  
-Release Date : 29/09/2017  
+Release Date : 2017/11/08  
 Author(s) : Ceeb182 (Ceeb182@laposte.net)  
-Proofreader(s) : /  
+Proofreader(s) : @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
+
+**2017-11-08 17:00 >> vPlus.Fr6**
+- "Caractéristiques" section:
+  * spelling : "Caractéri**s**tiques", "gr**â**ce", 2x"rafra**î**ssement", "param**é**trable"  
+  * grammar : "Compatible" sans "s"  
+- "Connexion" section : 2x expression "qu'un" into "d'un"  
+- "Alimentation électrique" section : expression "par une batterie **ou un** BEC", "contre les"  
+- "Protection contre les surcharges" section : spelling 5x"ambi**a**nt"  
+- "Configuration de OpenTx (...) télémétriques" section : grammar "doté**e**"  
+- "Description (...) RBCS et RBS" section :  
+  * grammar "doté**e**"  
+  * expression "un **un**"  
+  * spelling "gr**â**ce"  
+- "Génération de capteurs virtuels" section : grammar "enregistre**z**-le"  
 
 **2017-09-29 17:30 >> vPlus.Fr5**
 - Adding the "Creative Commons By Sa" license
