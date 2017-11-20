@@ -18,7 +18,8 @@ CoyotteDundee (http://frskytaranis.forumactif.org)
 LapinFou (http://frskytaranis.forumactif.org)  
 Eric84AMC (http://frskytaranis.forumactif.org)  
 PatrickB (http://frskytaranis.forumactif.org)  
-Mipel (http://frskytaranis.forumactif.org)  
+Mipel (http://frskytaranis.forumactif.org or https://github.com/mipel85)
+phil-86 (https://github.com/phil-86)  
 
 ## Other contributors
   
