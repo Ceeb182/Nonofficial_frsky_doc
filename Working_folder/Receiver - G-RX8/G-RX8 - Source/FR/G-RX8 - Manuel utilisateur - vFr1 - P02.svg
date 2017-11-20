@@ -169,9 +169,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="4.139692"
-     inkscape:cx="490.73818"
-     inkscape:cy="754.31738"
+     inkscape:zoom="2.069846"
+     inkscape:cx="240.70691"
+     inkscape:cy="627.94627"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -574,7 +574,7 @@
            y="253.3334"
            style="font-size:7.33333349px" /></flowRegion><flowPara
          id="flowPara12525">1. Le réglage usine par défaut est le mode FS.</flowPara><flowPara
-         id="flowPara10452">2. Connecter les broches signal des voies 5 et 6 avec le cavalier fourni avant l'appairage, le récepteur sera configuré en mode HS. Le récepteur se configure en mode FS en l'absence de cavalier.</flowPara></flowRoot><flowRoot
+         id="flowPara10452">2. Avant l'appairage, connecter les broches signal des voies 5 et 6 avec le cavalier fourni, le récepteur sera configuré en mode HS. Le récepteur se configure en mode FS en l'absence de cavalier.</flowPara></flowRoot><flowRoot
        xml:space="preserve"
        id="flowRoot16994"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.33333349px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -728,7 +728,7 @@
          id="flowPara17002-8"
          style="text-align:start;text-anchor:start">a) Mettre en marche le récepteur, si la LED Bleue s'allume sur le récepteur, alors celui-ci est en mode SBUS, sinon il est en mode PWM.</flowPara><flowPara
          style="text-align:start;text-anchor:start"
-         id="flowPara16655">b) Connecter les broches signal des voies 1 et 2 à l'aide du cavalier fourni avant l'appairage, le récepteur basculera dans le mode PWM. Le</flowPara><flowPara
+         id="flowPara16655">b) Avant l'appairage, connecter les broches signal des voies 1 et 2 à l'aide du cavalier fourni, le récepteur basculera dans le mode PWM. Le</flowPara><flowPara
          style="text-align:start;text-anchor:start"
          id="flowPara16677">    récepteur basculera dans le mode SBUS en l'absence du cavalier.</flowPara></flowRoot><text
        xml:space="preserve"
