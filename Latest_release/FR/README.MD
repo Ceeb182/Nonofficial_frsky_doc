@@ -25,16 +25,18 @@
 - ![<B>](../_media/B-Inedit.png) : documentation *inédite* sur un produit ou une procédure
 
 ## Sommaire
-- [Récepteur - D8RII Plus](#D8RIIPlus) (8 voies conventionnelles + 2 Analog + 1 Num / D8 / Portée >1,5km)
-- [Récepteur - X8R](#X8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km)
-- [Récepteur - X6R](#X6R) (6 voies conventionnelles + SPort / D8-D16 / Portée >1,5km)
-- [Récepteur - XM](#XM) (Uniquement SBUS / D16 / Portée 300m / Pas de télémétrie)
-- [Récepteur - XM+](#XM+) (Uniquement SBUS / D16 / Portée >1,5km / Pas de télémétrie)
-- [Récepteur - XMR](#XMR) (6 voies conventionnelles / D16 / Portée 600m / Pas de télémétrie)
-- [Capteur - VARI-H](#VARIH) (variomètre précision Haute ou Normale)
-- [Capteur - FLVSS](#FLVSS) (capteur tension pour batterie LiPo)
-- [Accessoire - SCC](#SCC) (Changeur d'Id pour servo SBUS ou capteur SPORT)
-- [Accessoire - RB16](#RB16) (Bus redondant 16 voies pour 2 alimentations et 2 récepteurs + protection contre les surcharges) 
+- [Récepteur - D8RII Plus](#D8RIIPlus) (8 voies conventionnelles + 2 Analog + 1 Num / D8 / Portée >1,5km)  
+- [Récepteur - X8R](#X8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km)  
+- [Récepteur - X6R](#X6R) (6 voies conventionnelles + SPort / D8-D16 / Portée >1,5km)  
+- [Récepteur - S6R S8R](#S8R_S6R) (6 ou 8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Gyro+Accel intégré / SBUS+RSSI pour le S8R)
+- [Récepteur - G-RX8](#GRX8) (6-8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT / Altimètre intégré)
+- [Récepteur - XM](#XM) (Uniquement SBUS / D16 / Portée 300m / Pas de télémétrie)  
+- [Récepteur - XM+](#XM+) (Uniquement SBUS / D16 / Portée >1,5km / Pas de télémétrie)  
+- [Récepteur - XMR](#XMR) (6 voies conventionnelles / D16 / Portée 600m / Pas de télémétrie)  
+- [Capteur - VARI-H](#VARIH) (variomètre précision Haute ou Normale)  
+- [Capteur - FLVSS](#FLVSS) (capteur tension pour batterie LiPo)  
+- [Accessoire - SCC](#SCC) (Changeur d'Id pour servo SBUS ou capteur SPORT)  
+- [Accessoire - RB16](#RB16) (Bus redondant 16 voies pour 2 alimentations et 2 récepteurs + protection contre les surcharges)  
 <BR>
 
 ------------------------------------------------------------------------------------------------------------
@@ -86,14 +88,14 @@
 ![RB16](../_media/Pdt-RB16.png)
 
 **![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Redundancy bus - Manuel utilisateur - vFr3.pdf](Redundancy%20bus%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 18/10/2017)  
-**![<B>](../_media/Flag_FRh11.png) ![<P>](../_media/B-Plus.png) [Redundancy bus - Manuel utilisateur - vPlus.Fr5.pdf](Redundancy%20bus%20-%20Manuel%20utilisateur%20-%20vPlus.Fr5.pdf)**  (MaJ 29/09/2017)  
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Redundancy bus - Procédure de mise à jour - vFr2.pdf](Redundancy%20bus%20-%20Procédure%20de%20mise%20à%20jour%20-%20vFr2.pdf)** (MaJ 29/09/2017)  
+**![<B>](../_media/Flag_FRh11.png) ![<P>](../_media/B-Plus.png) [Redundancy bus - Manuel utilisateur - vPlus.Fr6.pdf](Redundancy%20bus%20-%20Manuel%20utilisateur%20-%20vPlus.Fr6.pdf)**  (MaJ 08/11/2017)  
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Redundancy bus - Procédure de mise à jour - vFr3.pdf](Redundancy%20bus%20-%20Procédure%20de%20mise%20à%20jour%20-%20vFr3.pdf)** (MaJ 14/11/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
 <a name="D8RIIPlus"></a>
 ## Récepteur - D8R-II plus
-![RB16](../_media/Pdt-D8RIIPlus.png)
+![D8RIIPlus](../_media/Pdt-D8RIIPlus.png)
 
 **![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [D8R-II Plus - Manuel utilisateur - vFr3.pdf](D8R-II%20Plus%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 29/09/2017)  
 
@@ -101,7 +103,7 @@
 
 <a name="XM"></a>
 ## Récepteur - XM
-![RB16](../_media/Pdt-XM.png)
+![XM](../_media/Pdt-XM.png)
 
 **![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM - Manuel utilisateur - vFr1.pdf](XM%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 19/10/2017)  
 
@@ -110,7 +112,7 @@
 
 <a name="XM+"></a>
 ## Récepteur - XM+
-![RB16](../_media/Pdt-XM+.png)
+![XM+](../_media/Pdt-XM+.png)
 
 **![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM+ - Manuel utilisateur - vFr1.pdf](XM+%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 19/10/2017)  
 
@@ -118,7 +120,23 @@
 
 <a name="XMR"></a>
 ## Récepteur - XMR
-![RB16](../_media/Pdt-XMR.png)
+![XMR](../_media/Pdt-XMR.png)
 
 **![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XMR - Manuel utilisateur - vFr1.pdf](XMR%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 23/10/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="S8R_S6R"></a>
+## Récepteur - S6R & S8R
+![S8R_S6R](../_media/Pdt-S8R_S6R.png)
+
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [S6R S8R - Manuel utilisateur - vFr1.pdf](S6R%20S8R%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 26/11/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="GRX8"></a>
+## Récepteur - G-RX8
+![G-RX8](../_media/Pdt-GRX8.png)
+
+**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [G-RX8 - Manuel utilisateur - vFr1.pdf](G-RX8%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 26/11/2017)  
 

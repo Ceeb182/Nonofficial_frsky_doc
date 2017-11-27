@@ -25,8 +25,31 @@
 - ![<B>](../_media/B-Unpublished.png) : *Unpublished* documentation on a product or procedure  
 
 ## Table of content
-- Nothing for today
+- [Receiver - X8R](#X8R) (8 conventionnal channels + SPort / D8-D16 / Range >1,5km)  
+- [Receiver - X6R](#X6R) (6 conventionnal channels + SPort / D8-D16 / Range >1,5km)  
+- [Accessory - RB16](#RB16) (Redundancy Bus 16 channels for 2 power supplies and for 2 receivers + overload protection)  
 <BR>
 
 ------------------------------------------------------------------------------------------------------------
 
+<a name="X8R"></a>
+## Receiver - X8R
+![X8R](../_media/Pdt-X8R.png)
+
+**![<B>](../_media/Flag_ENh11.png) ![<P>](../_media/B-Plus.png) [X8R - User manual - vPlus.En1.pdf](X8R%20-%20User%20manual%20-%20vPlus.En1.pdf)** (Update 03/11/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="X6R"></a>
+## Receiver - X6R
+![X6R](../_media/Pdt-X6R.png)
+
+**![<B>](../_media/Flag_ENh11.png) ![<P>](../_media/B-Plus.png) [X6R - User manual - vPlus.En1.pdf](X6R%20-%20User%20manual%20-%20vPlus.En1.pdf)** (Update 03/11/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="RB16"></a>
+## Accessory - Redundancy bus 16 channels
+![RB16](../_media/Pdt-RB16.png)
+
+**![<B>](../_media/Flag_ENh11.png) ![<P>](../_media/B-Plus.png) [Redundancy bus - User manual - vPlus.En1.pdf](Redundancy%20bus%20-%20User%20manual%20-%20vPlus.En1.pdf)**  (Update 19/11/2017)  
