@@ -36,7 +36,7 @@
 ## Receiver - X8R
 ![X8R](../_media/Pdt-X8R.png)
 
-**![<B>](../_media/Flag_ENh11.png) ![<P>](../_media/B-Plus.png) [X8R - User manual - vPlus.En1.pdf](X8R%20-%20User%20manual%20-%20vPlus.En1.pdf)** (MaJ 03/11/2017)  
+**![<B>](../_media/Flag_ENh11.png) ![<P>](../_media/B-Plus.png) [X8R - User manual - vPlus.En1.pdf](X8R%20-%20User%20manual%20-%20vPlus.En1.pdf)** (Update 03/11/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@
 ## Receiver - X6R
 ![X6R](../_media/Pdt-X6R.png)
 
-**![<B>](../_media/Flag_ENh11.png) ![<P>](../_media/B-Plus.png) [X6R - User manual - vPlus.En1.pdf](X6R%20-%20User%20manual%20-%20vPlus.En1.pdf)** (MaJ 03/11/2017)  
+**![<B>](../_media/Flag_ENh11.png) ![<P>](../_media/B-Plus.png) [X6R - User manual - vPlus.En1.pdf](X6R%20-%20User%20manual%20-%20vPlus.En1.pdf)** (Update 03/11/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@
 ## Accessory - Redundancy bus 16 channels
 ![RB16](../_media/Pdt-RB16.png)
 
-**![<B>](../_media/Flag_ENh11.png) ![<P>](../_media/B-Plus.png) [Redundancy bus - User manual - vPlus.En1.pdf](Redundancy%20bus%20-%20User%20manual%20-%20vPlus.En1.pdf)**  (MaJ 19/11/2017)  
+**![<B>](../_media/Flag_ENh11.png) ![<P>](../_media/B-Plus.png) [Redundancy bus - User manual - vPlus.En1.pdf](Redundancy%20bus%20-%20User%20manual%20-%20vPlus.En1.pdf)**  (Update 19/11/2017)  
