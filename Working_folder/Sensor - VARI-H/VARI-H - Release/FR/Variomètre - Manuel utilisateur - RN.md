@@ -16,7 +16,7 @@ Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
 **2017-12-12 21:00 >> vFR4**  
-- Suppression de la majuscule de "Variomètrique" x8
+- Suppression de la majuscule de "Variométrique" x8
 - Paragraphe "Nouveauté" : changement point virgule en virgule
 - Paragraphe 4.2 : orthographe "câbles"
 - Dernier paragraphe "Avertissement" : grammaire "peuvent" en "peut"
@@ -48,7 +48,7 @@ Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
 **2017-12-12 21:00 >> vFR4**  
-- Removing the capital letter of "Variomètrique" x8
+- Removing the capital letter of "Variométrique" x8
 - "Nouveauté" section : change semicolon to comma
 - 4.2 section : spelling "câbles"
 - "Avertissement" in last section : grammar "peuvent" into "peut"
