@@ -7,13 +7,17 @@
 <a name="FR"></a>
 # Note de version
 
-### Titre : X8R - Manuel utilisateur - vPlus.Fr3  
+### Titre : X8R - Manuel utilisateur - vPlus.Fr4  
 Origine : X8R - User manual - vEN 2017-01-06.pdf  
-Date d'édition : 29/09/2017  
+Date d'édition : 2017/12/13  
 Auteur(s) : Ceeb182 (Ceeb182@laposte.net)  
-Correcteur(s) : LapinFou, Eric84AMC, PatrickB  
+Correcteur(s) : LapinFou, Eric84AMC, PatrickB, @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
+
+**2017-12-13 23:00 >> vPlus.Fr4**  
+- Orthographe : "Impulsion" x2, "brièvement" x2  
+- Phrase : "Ceci permet de lier"  
 
 **2017-09-29 23:45 >> vPlus.Fr3**  
 - Ajout de la licence "Creative Commons By Sa"
@@ -36,13 +40,17 @@ Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa
 <a name="EN"></a>
 # Release note
 
-### Title : X8R - Manuel utilisateur - vPlus.Fr3  
+### Title : X8R - Manuel utilisateur - vPlus.Fr4  
 Origin : X8R - User manual - vEN 2017-01-06.pdf  
-Release Date : 29/09/2017  
+Release Date : 2017/12/13  
 Author(s) : Ceeb182 (Ceeb182@laposte.net)  
-Proofreader(s) : LapinFou, Eric84AMC, PatrickB  
+Proofreader(s) : LapinFou, Eric84AMC, PatrickB, @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
+
+**2017-12-13 23:00 >> vPlus.Fr4**  
+- Spelling : "Impulsion" x2, "brièvement" x2  
+- Sentence : "Ceci permet de lier"  
 
 **2017-09-29 23:45 >> vPlus.Fr3**  
 - Adding the "Creative Commons By Sa" license
