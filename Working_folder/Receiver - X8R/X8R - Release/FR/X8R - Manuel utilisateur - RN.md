@@ -16,7 +16,7 @@ Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
 **2017-09-29 12:00 >> vFR6**  
-- Orthographe "Impulsion" x2, "Relâcher", "clignote", "brièvement" x3  
+- Orthographe "Impulsion" x2, "Relâcher", "clignote", "récepteur", "brièvement" x3  
 
 **2017-09-29 12:00 >> vFR5**
 - Ajout de la licence "Creative Commons By Sa"
@@ -60,7 +60,7 @@ Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
 **2017-09-29 12:00 >> vFR6**  
-- Spelling "Impulsion" x2, "Relâcher", "clignote", "brièvement" x3  
+- Spelling "Impulsion" x2, "Relâcher", "clignote", "récepteur", "brièvement" x3  
 
 **2017-09-29 12:00 >> vFR5**
 - Adding the "Creative Commons By Sa" license

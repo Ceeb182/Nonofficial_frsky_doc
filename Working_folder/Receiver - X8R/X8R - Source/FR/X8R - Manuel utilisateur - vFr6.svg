@@ -19,7 +19,7 @@
    sodipodi:docname="X8R - Manuel utilisateur - vFr6.svg"><metadata
      id="metadata5205"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs5203"><marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
@@ -149,9 +149,9 @@
      inkscape:window-height="987"
      id="namedview5201"
      showgrid="false"
-     inkscape:zoom="3.8141415"
-     inkscape:cx="469.22682"
-     inkscape:cy="722.45353"
+     inkscape:zoom="2.6970053"
+     inkscape:cx="808.4292"
+     inkscape:cy="376.72448"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -2819,7 +2819,7 @@
          x="562.01373"
          y="507.25873"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan6456">1.  Appairer en premier lieu le recépteur et mettre en marche l'émetteur et le récepteur;</tspan><tspan
+         id="tspan6456">1.  Appairer en premier lieu le récepteur et mettre en marche l'émetteur et le récepteur;</tspan><tspan
          sodipodi:role="line"
          x="562.01373"
          y="516.63373"
