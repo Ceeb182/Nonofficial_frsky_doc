@@ -7,13 +7,16 @@
 <a name="FR"></a>
 # Note de version
 
-### Titre : X6R - Manuel utilisateur - vFr3  
+### Titre : X6R - Manuel utilisateur - vFr4  
 Origine : X6R - User manual - vEN 2017-01-06.pdf  
-Date d'édition : 29/09/2017  
+Date d'édition : 2017/12/13  
 Auteur(s) : Ceeb182 (Ceeb182@laposte.net)  
-Correcteur(s) : LapinFou, Eric84AMC, PatrickB  
+Correcteur(s) : LapinFou, Eric84AMC, PatrickB, @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
+
+**2017-12-13 15:00 >> vFR4**  
+- orthographe "Impulsion" x2, "relâcher", "clignote", "récepteur", "brièvement" x3  
 
 **2017-09-29 15:00 >> vFR3**
 - Ajout de la licence "Creative Commons By Sa"
@@ -39,13 +42,16 @@ Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa
 <a name="EN"></a>
 # Release note
 
-### Title : X6R - Manuel utilisateur - vFr3  
+### Title : X6R - Manuel utilisateur - vFr4  
 Origin : X6R - User manual - vEN 2017-01-06.pdf  
-Release Date : 29/09/2017  
+Release Date : 2017/12/13  
 Author(s) : Ceeb182 (Ceeb182@laposte.net)  
-Proofreader(s) : LapinFou, Eric84AMC, PatrickB  
+Proofreader(s) : LapinFou, Eric84AMC, PatrickB, @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
+
+**2017-12-13 15:00 >> vFR4**  
+- spelling "Impulsion" x2, "relâcher", "clignote", "récepteur", "brièvement" x3  
 
 **2017-09-29 15:00 >> vFR3**
 - Adding the "Creative Commons By Sa" license
