@@ -17,6 +17,7 @@ Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa
 
 
 **2017-11-26 15:00 >> vFr1**  
+- Section "What's new !" : la première phrase a été divisée en deux pour une meilleure compréhension  
 - Creation du document  
 
 
@@ -35,5 +36,6 @@ Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa
 
 
 **2017-11-26 15:00 >> vFr1**  
+- "What's new !" section :the first sentence has been split in two for better understanding  
 - First release  
 
