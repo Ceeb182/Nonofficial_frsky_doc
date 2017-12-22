@@ -19,6 +19,7 @@ Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa
 **2017-11-26 15:00 >> vFr1**
 - Creation du document
 - Mise en page légèrement différente compte tenu que les textes français sont plus long que les textes anglais
+- Le nom de la touche MOL est modifié en MDL
 
 --------------------------------------------------------------------------------------
 
@@ -37,3 +38,4 @@ Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa
 **2017-11-26 15:00 >> vFr1**
 - First release
 - Slightly different layout given that French texts are longer than English texts
+- Key name MOL changed in MDL
