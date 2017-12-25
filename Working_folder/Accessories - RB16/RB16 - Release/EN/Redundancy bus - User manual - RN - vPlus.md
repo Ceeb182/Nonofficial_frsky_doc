@@ -1,14 +1,16 @@
 
 # Release note
 
-### Title : Redundancy bus - User manual - vPlus.En1  
+### Title : Redundancy bus - User manual - vPlus.En2  
 Origin : Redundancy bus - Manuel utilisateur - vPlus.Fr5  
-Release Date : 2017/11/19  
+Release Date : 2017/12/25  
 Author(s) : Ceeb182 (Ceeb182@laposte.net)  
-Proofreader(s) : /  
+Proofreader(s) : @filduch  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
+**2017-12-25 22:00 >> vPlus.En2**  
+- LUA Script : syntax fixes (spaces missing)  
 
 **2017-11-19 12:00 >> vPlus.En1**
 Note : FRB means FrSky Redundancy Bus
