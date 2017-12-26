@@ -7,13 +7,16 @@
 <a name="FR"></a>
 # Note de version
 
-### Titre : Redundancy bus - Manuel utilisateur - vPlus.Fr6  
+### Titre : Redundancy bus - Manuel utilisateur - vPlus.Fr7  
 Origine : RB16 - User Manual - vEN 2016-06-24.pdf  
-Date d'édition : 2017/11/08  
+Date d'édition : 2017/12/25  
 Auteur(s) : Ceeb182 (Ceeb182@laposte.net)  
-Correcteur(s) : @mipel85  
+Correcteur(s) : @mipel85, @filduch  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
+
+**2017-12-25 22:00 >> vPlus.Fr7**  
+- Script LUA : Correction des erreurs de syntaxe (espaces manquant)  
 
 **2017-11-08 17:00 >> vPlus.Fr6**
 - Section "Caractéristiques" :
@@ -82,13 +85,16 @@ Note : FRB signifie FrSky Redundancy Bus
 <a name="EN"></a>
 # Release note
 
-### Title : Redundancy bus - Manuel utilisateur - vPlus.Fr6  
+### Title : Redundancy bus - Manuel utilisateur - vPlus.Fr7  
 Origin : RB16 - User Manual - vEN 2016-06-24.pdf  
-Release Date : 2017/11/08  
+Release Date : 2017/12/25  
 Author(s) : Ceeb182 (Ceeb182@laposte.net)  
-Proofreader(s) : @mipel85  
+Proofreader(s) : @mipel85, @filduch  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
+
+**2017-12-25 22:00 >> vPlus.Fr7**  
+- LUA Script : syntax fixes (spaces missing)  
 
 **2017-11-08 17:00 >> vPlus.Fr6**
 - "Caractéristiques" section:
