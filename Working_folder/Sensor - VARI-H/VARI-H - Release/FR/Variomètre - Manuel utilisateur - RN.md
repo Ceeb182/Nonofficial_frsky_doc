@@ -7,13 +7,19 @@
 <a name="FR"></a>
 # Note de version
 
-### Titre : Variomètre - Manuel utilisateur - vFr3  
+### Titre : Variomètre - Manuel utilisateur - vFr4  
 Origine : Variometer Sensor H or N - User manual - vEN 2016-12-20.pdf  
-Date d'édition : 29/09/2017  
+Date d'édition : 2017/12/12  
 Auteur(s) : Ceeb182 (Ceeb182@laposte.net)  
-Correcteur(s) : LapinFou  
+Correcteur(s) : LapinFou, @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
+
+**2017-12-12 21:00 >> vFR4**  
+- Suppression de la majuscule de "Variométrique" x8
+- Paragraphe "Nouveauté" : changement point virgule en virgule
+- Paragraphe 4.2 : orthographe "câbles"
+- Dernier paragraphe "Avertissement" : grammaire "peuvent" en "peut"
 
 **2017-09-29 15:00 >> vFR3**
 - Ajout de la licence "Creative Commons By Sa"
@@ -33,13 +39,19 @@ Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa
 <a name="EN"></a>
 # Release note
 
-### Title : Variomètre - Manuel utilisateur - vFr3  
+### Title : Variomètre - Manuel utilisateur - vFr4  
 Origin : Variometer Sensor H or N - User manual - vEN 2016-12-20.pdf  
-Release Date : 29/09/2017  
+Release Date : 2017/12/12  
 Author(s) : Ceeb182 (Ceeb182@laposte.net)  
-Proofreader(s) : LapinFou  
+Proofreader(s) : LapinFou , @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
+
+**2017-12-12 21:00 >> vFR4**  
+- Removing the capital letter of "Variométrique" x8
+- "Nouveauté" section : change semicolon to comma
+- 4.2 section : spelling "câbles"
+- "Avertissement" in last section : grammar "peuvent" into "peut"
 
 **2017-09-29 15:00 >> vFR3**
 - Adding the "Creative Commons By Sa" license
