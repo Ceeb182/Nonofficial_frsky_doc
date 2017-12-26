@@ -26,10 +26,12 @@
 
 ## Sommaire
 - [Récepteur - D8RII Plus](#D8RIIPlus) (8 voies conventionnelles + 2 Analog + 1 Num / D8 / Portée >1,5km)  
-- [Récepteur - X8R](#X8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km)  
+- [Récepteur - X8R](#X8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km / SBUS OUT)  
 - [Récepteur - X6R](#X6R) (6 voies conventionnelles + SPort / D8-D16 / Portée >1,5km)  
 - [Récepteur - S6R S8R](#S8R_S6R) (6 ou 8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Gyro+Accel intégré / SBUS+RSSI pour le S8R)
 - [Récepteur - G-RX8](#GRX8) (6-8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT / Altimètre intégré)
+- [Récepteur - RX8R](#RX8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT)  
+- [Récepteur - R-XSR](#RXSR) (Uniquement SBUS ou CPPM / D16 / Portée >1,5km / Fct redondance SBUS IN)  
 - [Récepteur - XM](#XM) (Uniquement SBUS / D16 / Portée 300m / Pas de télémétrie)  
 - [Récepteur - XM+](#XM+) (Uniquement SBUS / D16 / Portée >1,5km / Pas de télémétrie)  
 - [Récepteur - XMR](#XMR) (6 voies conventionnelles / D16 / Portée 600m / Pas de télémétrie)  
@@ -45,8 +47,8 @@
 ## Récepteur - X8R
 ![X8R](../_media/Pdt-X8R.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [X8R - Manuel utilisateur - vFr5.pdf](X8R%20-%20Manuel%20utilisateur%20-%20vFr5.pdf)** (MaJ 29/09/2017)  
-**![<B>](../_media/Flag_FRh11.png) ![<P>](../_media/B-Plus.png) [X8R - Manuel utilisateur - vPlus.Fr3.pdf](X8R%20-%20Manuel%20utilisateur%20-%20vPlus.Fr3.pdf)** (MaJ 29/09/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [X8R - Manuel utilisateur - vFr6.pdf](X8R%20-%20Manuel%20utilisateur%20-%20vFr6.pdf)** (MaJ 28/12/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<P>](../_media/B-Plus.png) [X8R - Manuel utilisateur - vPlus.Fr4.pdf](X8R%20-%20Manuel%20utilisateur%20-%20vPlus.Fr4.pdf)** (MaJ 28/12/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -54,8 +56,8 @@
 ## Récepteur - X6R
 ![X6R](../_media/Pdt-X6R.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [X6R - Manuel utilisateur - vFr3.pdf](X6R%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 29/09/2017)  
-**![<B>](../_media/Flag_FRh11.png) ![<P>](../_media/B-Plus.png) [X6R - Manuel utilisateur - vPlus.Fr3.pdf](X6R%20-%20Manuel%20utilisateur%20-%20vPlus.Fr3.pdf)** (MaJ 29/09/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [X6R - Manuel utilisateur - vFr4.pdf](X6R%20-%20Manuel%20utilisateur%20-%20vFr4.pdf)** (MaJ 28/12/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<P>](../_media/B-Plus.png) [X6R - Manuel utilisateur - vPlus.Fr4.pdf](X6R%20-%20Manuel%20utilisateur%20-%20vPlus.Fr4.pdf)** (MaJ 28/12/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -63,7 +65,7 @@
 ## Capteur - VARI-H (Variomètre)
 ![VARIH](../_media/Pdt-VARIH.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Variomètre - Manuel utilisateur - vFr3.pdf](Variomètre%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 29/09/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Variomètre - Manuel utilisateur - vFr4.pdf](Variomètre%20-%20Manuel%20utilisateur%20-%20vFr4.pdf)** (MaJ 28/12/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -71,7 +73,7 @@
 ## Accessoire - SCC
 ![SCC](../_media/Pdt-SCC.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [SCC - Manuel utilisateur - vFr2.pdf](SCC%20-%20Manuel%20utilisateur%20-%20vFr2.pdf)** (MaJ 29/09/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [SCC - Manuel utilisateur - vFr3.pdf](SCC%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 28/12/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -79,7 +81,7 @@
 ## Capteur - FLVSS
 ![FLVSS](../_media/Pdt-FLVSS.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [FLVSS - Manuel utilisateur - vFr3.pdf](FLVSS%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 24/10/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [FLVSS - Manuel utilisateur - vFr3.pdf](FLVSS%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 24/10/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -87,9 +89,9 @@
 ## Accessoire - Redundancy bus 16 voies
 ![RB16](../_media/Pdt-RB16.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Redundancy bus - Manuel utilisateur - vFr3.pdf](Redundancy%20bus%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 18/10/2017)  
-**![<B>](../_media/Flag_FRh11.png) ![<P>](../_media/B-Plus.png) [Redundancy bus - Manuel utilisateur - vPlus.Fr6.pdf](Redundancy%20bus%20-%20Manuel%20utilisateur%20-%20vPlus.Fr6.pdf)**  (MaJ 08/11/2017)  
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Redundancy bus - Procédure de mise à jour - vFr3.pdf](Redundancy%20bus%20-%20Procédure%20de%20mise%20à%20jour%20-%20vFr3.pdf)** (MaJ 14/11/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Redundancy bus - Manuel utilisateur - vFr3.pdf](Redundancy%20bus%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 18/10/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<P>](../_media/B-Plus.png) [Redundancy bus - Manuel utilisateur - vPlus.Fr7.pdf](Redundancy%20bus%20-%20Manuel%20utilisateur%20-%20vPlus.Fr7.pdf)**  (MaJ 28/12/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [Redundancy bus - Procédure de mise à jour - vFr3.pdf](Redundancy%20bus%20-%20Procédure%20de%20mise%20à%20jour%20-%20vFr3.pdf)** (MaJ 14/11/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -97,7 +99,7 @@
 ## Récepteur - D8R-II plus
 ![D8RIIPlus](../_media/Pdt-D8RIIPlus.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [D8R-II Plus - Manuel utilisateur - vFr3.pdf](D8R-II%20Plus%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 29/09/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [D8R-II Plus - Manuel utilisateur - vFr3.pdf](D8R-II%20Plus%20-%20Manuel%20utilisateur%20-%20vFr3.pdf)** (MaJ 29/09/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -105,7 +107,7 @@
 ## Récepteur - XM
 ![XM](../_media/Pdt-XM.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM - Manuel utilisateur - vFr1.pdf](XM%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 19/10/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM - Manuel utilisateur - vFr1.pdf](XM%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 19/10/2017)  
 
 
 ------------------------------------------------------------------------------------------------------------
@@ -114,7 +116,7 @@
 ## Récepteur - XM+
 ![XM+](../_media/Pdt-XM+.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM+ - Manuel utilisateur - vFr1.pdf](XM+%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 19/10/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM+ - Manuel utilisateur - vFr1.pdf](XM+%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 19/10/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -122,7 +124,7 @@
 ## Récepteur - XMR
 ![XMR](../_media/Pdt-XMR.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XMR - Manuel utilisateur - vFr1.pdf](XMR%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 23/10/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XMR - Manuel utilisateur - vFr1.pdf](XMR%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 23/10/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -130,7 +132,7 @@
 ## Récepteur - S6R & S8R
 ![S8R_S6R](../_media/Pdt-S8R_S6R.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [S6R S8R - Manuel utilisateur - vFr1.pdf](S6R%20S8R%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 26/11/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [S6R S8R - Manuel utilisateur - vFr1.pdf](S6R%20S8R%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 26/11/2017)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -138,5 +140,21 @@
 ## Récepteur - G-RX8
 ![G-RX8](../_media/Pdt-GRX8.png)
 
-**![<B>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [G-RX8 - Manuel utilisateur - vFr1.pdf](G-RX8%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 26/11/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [G-RX8 - Manuel utilisateur - vFr1.pdf](G-RX8%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 26/11/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="RX8R"></a>
+## Récepteur - RX8R
+![RX8R](../_media/Pdt-RX8R.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [RX8R - Manuel utilisateur - vFr1.pdf](RX8R%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 28/12/2017)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="RXSR"></a>
+## Récepteur - R-XSR
+![R-XSR](../_media/Pdt-RXSR.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [R-XSR - Manuel utilisateur - vFr1.pdf](R-XSR%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 28/12/2017)  
 
