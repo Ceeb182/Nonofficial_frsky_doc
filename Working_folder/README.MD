@@ -70,7 +70,7 @@ Il peut y avoir 3 types de documentation :
 
 <br>
 
-![<Logo CCBYSA>](../Latest_release/_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Auteur : Ceeb182@laposte.net / 2017 / Source : github/ceeb182/nonofficial_frsky_doc*
+![<Logo CCBYSA>](../Latest_release/_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Auteur : Ceeb182@laposte.net / 2017-2018 / Source : github/ceeb182/nonofficial_frsky_doc*
 <br>
 <br>
 <br>
@@ -143,4 +143,4 @@ There may be 3 types of documentation:
 ### ![Puce>](../Latest_release/_media/Logo-PuceTriJN.png) All finalized english documents are here: ![Book](../Latest_release/_media/Logo-Book.png "Doc PDF") ["Latest_release/EN"](../Latest_release/EN) ![Book](../Latest_release/_media/Logo-Book.png "Doc PDF")
 <br>
 
-![<Logo CCBYSA>](../Latest_release/_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Author : Ceeb182@laposte.net / 2017 / Source : github/ceeb182/nonofficial_frsky_doc*
+![<Logo CCBYSA>](../Latest_release/_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Author : Ceeb182@laposte.net / 2017-2018 / Source : github/ceeb182/nonofficial_frsky_doc*
