@@ -4,7 +4,8 @@ I didn't forget to respect [contributing](https://github.com/Ceeb182/Nonofficial
 - [ ] New Literal translation
 - [ ] Translation from an existing SVG file
 - [ ] New news for `Plus` and `Unpublished` version
+- [ ] Complete translation both on the substance and on the form
 - [ ] Other...  
 
-Message :
+*Message :*
 

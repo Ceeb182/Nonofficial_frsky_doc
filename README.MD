@@ -105,7 +105,7 @@ Vous préférez contribuer en me soutenant financièrement, alors cliquez sur ce
 ### ![Puce>](Latest_release/_media/Logo-PuceTriJN.png) Quelle est la licence des documents ?
 Les documents sont produits sous la licence "Creative Commons By Sa" (https://creativecommons.org/licenses/by-sa/4.0/) pour permettre au plus grand nombre d'utiliser ce contenu partiellement ou en totalité. Néanmoins, FrSky peut nous demander de retirer ou rectifier tout ou partie du contenu du présent dépôt. 
 
-![<Logo CCBYSA>](Latest_release/_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Auteur : Ceeb182@laposte.net / 2017 / Source : github/ceeb182/nonofficial_frsky_doc/README.MD*
+![<Logo CCBYSA>](Latest_release/_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Auteur : Ceeb182@laposte.net / 2017-2018 / Source : github/ceeb182/nonofficial_frsky_doc/README.MD*
 <br>
 <br>
 <br>
@@ -216,4 +216,4 @@ You prefer to contribute by supporting me financially, then click on this link: 
 ### ![Puce>](Latest_release/_media/Logo-PuceTriJN.png) What is the license of the documents ?
 The documents are produced under the Creative Commons By Sa (https://creativecommons.org/licenses/by-sa/4.0/) license to allow as many people as possible to use this content in whole or in part. Nevertheless, FrSky may ask us to withdraw or correct all or part of the contents of this repository.
 
-![<Logo CCBYSA>](Latest_release/_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Author : Ceeb182@laposte.net / 2017 / Source : github/ceeb182/nonofficial_frsky_doc/README.MD*
+![<Logo CCBYSA>](Latest_release/_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Author : Ceeb182@laposte.net / 2017-2018 / Source : github/ceeb182/nonofficial_frsky_doc/README.MD*
