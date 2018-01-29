@@ -30,7 +30,7 @@ Exemples de comportements non acceptables :
 
 * l'utilisation de langage ou d'imagerie sexualisés et les avances sexuelles
 non sollicitées
-* le _trolling_, les commentaires insultants ou désobligeants, et les
+* le _trolling_, les commentaires insultants ou désobligeants et les
 attaques personnelles ou d'ordre politique
 * le harcèlement en public ou en privé
 * la publication d'informations privées de tierces personnes, telles que
@@ -48,7 +48,7 @@ Les mainteneurs du projet ont le droit et la responsabilité de supprimer,
 modifier ou rejeter les commentaires, _commits_, code, modifications du wiki,
 questions et autres contributions qui ne respectent pas ce Code de Conduite,
 ou de bannir temporairement ou définitivement tout contributeur pour des
-comportements qu'ils jugent inappropriés, menaçants, injurieux, ou nuisibles.
+comportements qu'ils jugent inappropriés, menaçants, injurieux ou nuisibles.
 
 ## Objectifs
 
@@ -56,7 +56,7 @@ Ce Code de Conduite s'applique à la fois au sein des espaces du projet
 ainsi que dans les espaces publics lorsqu'un individu représente le projet
 ou sa communauté. Font parties des exemples de représentation d'un projet ou 
 d'une communauté le fait d'utiliser une adresse email propre au projet, de
-poster sur les réseaux sociaux avec un compte officiel, ou d'intervenir comme
+poster sur les réseaux sociaux avec un compte officiel ou d'intervenir comme
 représentant programmé à un événement en-ligne ou hors-ligne. La représentation
 du projet pourra être autrement définie et clarifiée par les mainteneurs du
 projet.

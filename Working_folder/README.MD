@@ -15,7 +15,7 @@
 
 # ![Flag FR>](../Latest_release/_media/Flag_FR.png "Français") Organisation du dossier "Working\_folder" 
 Ce dossier comprend un répertoire par produit.
-Chaque répertoire produit contient 3 sous-répertoires :
+Chaque répertoire produit contient 3 sous répertoires :
  - ![Folder_icon>](../Latest_release/_media/Logo-Folder.png) "**Stock**" pour toutes les données récoltées pour la création de votre document
  - ![Folder_icon>](../Latest_release/_media/Logo-Folder.png) "**Source**" contient toutes les versions des documents au format SVG
  - ![Folder_icon>](../Latest_release/_media/Logo-Folder.png) "**Release**" contient toutes les versions des documents au format PDF, accompagnées de sa note de version en MD (MarkDown)
@@ -33,7 +33,7 @@ Working_folder/    ; Contient tous les documents de travail : informations, lien
 │   │   ├──X8R-Partial.PDF                 ; Document partiel PDF
 │   │   └──X8R-Drawing pdt top.SVG         ; Document partiel SVG
 │   ├──X8R-Sources ; "Sources" contient les documents au format **SVG** ainsi que la note
-│   │   │              de version correspondantes
+│   │   │              de version correspondante
 │   │   ├──FR      ; Section Française
 │   │   │   ├──X8R-Manuel utilisateur-P01-vFr1.SVG ; Page 1 du "manuel utilisateur" en version BASE FR1
 │   │   │   ├──X8R-Manuel utilisateur-P02-vFr1.SVG ; Page 2 du "manuel utilisateur" en version BASE FR1
@@ -44,7 +44,7 @@ Working_folder/    ; Contient tous les documents de travail : informations, lien
 │   │   │   └──X8R-Procedure MaJ Firmware-P01-vInédit.Fr1.SVG ; Page 1 du "Procedure MaJ Firmware" en version INEDIT FR1
 │   │   └──EN      ; Section Anglaise (même contenu que FR traduit en anglais)
 │   └──X8R-Release ; "Release" contient les documents au format **PDF** ainsi que la note de version
-│       │              correspondantes. 
+│       │              correspondante. 
 │       ├──FR      ; Section Française
 │       │   ├──X8R-Manuel utilisateur-vFr1.PDF      ; "Manuel utilisateur" en version BASE FR1
 │       │   ├──X8R-Manuel utilisateur-vFr2.PDF      ; "Manuel utilisateur" en version BASE FR2

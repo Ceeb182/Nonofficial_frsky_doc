@@ -16,19 +16,19 @@
 >FrSky a donné un accord de principe à la mise en place de ce dépôt.  
 >FrSky est informé de toute nouvelle parution de documents sur ce dépôt.  
 >Pour faciliter le contrôle par FrSky :  
->- l'arborescence des dossiers est volontairement en Anglais  
->- tous les fichiers `Readme.md` possèdent une section en Anglais  
->- toutes les notes de versions comportent une section en Anglais  
+>- l'arborescence des dossiers est volontairement en anglais  
+>- tous les fichiers `Readme.md` possèdent une section en anglais  
+>- toutes les notes de versions comportent une section en anglais  
 
-# ![Flag FR>](Latest_release/_media/Flag_FR.png "Français") De la documentation FrSky en Français ! 
+# ![Flag FR>](Latest_release/_media/Flag_FR.png "Français") De la documentation FrSky en français ! 
 Bienvenue sur le dépôt **Nonofficial_FrSky_doc** !  
 Si vous cherchez de la documentation FrSky non anglaise, vous êtes au bon endroit !  
-A l'origine, je suis un membre du forum francophone http://frskytaranis.forumactif.org/ pour lequel j'ai posté quelques traductions françaises de la documentation FrSky. Aujourd'hui, compte-tenu du nombre de téléchargement, il est temps de partager ce travail et de l'enrichir avec la communauté.
+A l'origine, je suis un membre du forum francophone http://frskytaranis.forumactif.org/ pour lequel j'ai posté quelques traductions françaises de la documentation FrSky. Aujourd'hui, compte tenu du nombre de téléchargements, il est temps de partager ce travail et de l'enrichir avec la communauté.
 
-Vous trouverez sur ce dépôt 3 types de documentation en Français dans le repertoire ["Latest_release/FR"](Latest_release/FR) :
+Vous trouverez sur ce dépôt 3 types de documentation en français dans le répertoire ["Latest_release/FR"](Latest_release/FR) :
 
 - Version **Base** : une traduction *la plus fidèle possible* du document FrSky 
-- Version **Plus** : une traduction améliorée du document FrSky *enrichie d'informations* non-officielles
+- Version **Plus** : une traduction améliorée du document FrSky *enrichie d'informations* non officielles
 - Version **Inédit** : une documentation *inédite* sur un produit ou une procédure
 
 ### Tous les documents finalisés sont ici : ![Book](Latest_release/_media/Logo-Book.png "Doc PDF") ["Latest_release/FR"](Latest_release/FR) ![Book](Latest_release/_media/Logo-Book.png "Doc PDF")
@@ -51,7 +51,7 @@ Pour le moment, je réalise seul les documents français présents dans le dossi
 
 Vous trouverez aussi d'autres de mes documents sur OpenTx directement sur le très bon site web francophone http://frskytaranis.forumactif.org/ à la section "Méga Tuto". Pour avoir un aperçu du travail, il faut en moyenne 8h pour créer une page de documentation si un modèle existe déjà dans une autre langue.
 
-Je fais cela bénévolement, sur mon temps personnel. Je laisse libre d'accès les documents et les fichiers de travail correspondant. 
+Je fais cela bénévolement, sur mon temps personnel. Je laisse libre d'accès les documents et les fichiers de travail correspondants. 
 
 >**Vous souhaitez soutenir cette initiative  en faisant un don,  
 >vous en avez la possibilité en cliquant sur le lien suivant :** [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Soutenir via CotizUp")](https://www.cotizup.com/ceeb182-nfd01/donation)
@@ -72,10 +72,10 @@ Inkscape est l'outil principal de création du document final. Souvent, tous les
 ### ![Puce>](Latest_release/_media/Logo-PuceTriJN.png) Comment s'explique l'arborescence du projet ?
 Pour faire simple, il y a deux grands dossiers :
 
-- ![Folder_icon>](Latest_release/_media/Logo-Folder.png) "**Working folder**" est le repertoire de conception des documents (l'usine d'édition/conception),
-- ![Folder_icon>](Latest_release/_media/Logo-Folder.png) "**Latest Release**" repertorie uniquement les dernières documentations achevées au format PDF (la bibliothèque finale).
+- ![Folder_icon>](Latest_release/_media/Logo-Folder.png) "**Working folder**" est le répertoire de conception des documents (l'usine d'édition/conception),
+- ![Folder_icon>](Latest_release/_media/Logo-Folder.png) "**Latest Release**" répertorie uniquement les dernières documentations achevées au format PDF (la bibliothèque finale).
 
-Si nous allons un peu plus dans le détail, vous pouvez noter que "**Working folder**" comporte pour chaque produit, un sous-répertoire distinct comme par exempe "**Receiver - X8R**", "**Sensor - VARIO**"...
+Si nous allons un peu plus dans le détail, vous pouvez noter que "**Working folder**" comporte pour chaque produit, un sous répertoire distinct comme par exempe "**Receiver - X8R**", "**Sensor - VARIO**"...
 
 Enfin pour chaque produit, il y a trois sous-répertoires. 
 Par exemple pour le produit "**Receiver - X8R**", il y a :
@@ -124,9 +124,9 @@ Les documents sont produits sous la licence "Creative Commons By Sa" (https://cr
 >FrSky agreed to the principle of setting up such a repository.  
 >FrSky is informed of any new publication of documents on this repository  
 >To make FrSky checks easier :  
->- the folder tree is voluntarily in English  
->- all `Readme.md` files have a section in English  
->- all release notes have a section in English  
+>- the folder tree is voluntarily in english  
+>- all `Readme.md` files have a section in english  
+>- all release notes have a section in english  
 
 
 # ![Flag EN>](Latest_release/_media/Flag_EN.png "English") FrSKy documentation in other languages !

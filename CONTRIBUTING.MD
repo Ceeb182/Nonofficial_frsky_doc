@@ -5,11 +5,11 @@
 --------------------------------------------------------------------------------------
 <a name="FR_Section"></a>![<MERCI>](Latest_release/_media/Logo-ThanksFR.png "Merci")
 
-*Tout d'abord, merci pour le temps que vous donnez pour contribuer à l'amélioration des documents présents sur ce dépot !*
+*Tout d'abord, merci pour le temps que vous donnez pour contribuer à l'amélioration des documents présents sur ce dépôt !*
 
 --------------------------------------------------------------------------------------
 
-### ![<*>](Latest_release/_media/Logo-UnderConstruction25x22.png) CE DOCUMENT EST EN CONTRUCTION ![<*>](Latest_release/_media/Logo-UnderConstruction25x22.png)
+### ![<*>](Latest_release/_media/Logo-UnderConstruction25x22.png) CE DOCUMENT EST EN CONSTRUCTION ![<*>](Latest_release/_media/Logo-UnderConstruction25x22.png)
 # Voici quelques éléments pour vous guider dans votre contribution...
 
 ## Sommaire
@@ -39,7 +39,7 @@ Ce projet et tous ceux qui y participent sont régis par un [code de conduite](C
 
 <a name="FR_Patient"></a>
 ## ![>](Latest_release/_media/Logo-PuceTriJN.png) Soyez patient et indulgent
-C'est la première fois que je met en place et que j'utilise l'outil Git et les services de GitHub.  
+C'est la première fois que je mets en place et que j'utilise l'outil Git et les services de GitHub.  
 Je ne suis ni programmeur, ni webmaster.  
 J'apprends au fur et à mesure de l'évolution de ce projet.  
 **Aussi, je vous remercie pour la patience et l'indulgence dont vous ferez preuve à mon égard.**
@@ -47,8 +47,8 @@ Je reste à l'écoute de vos conseils. Les documents décrivant chaque partie du
 
 <a name="FR_Wish"></a>
 ## ![>](Latest_release/_media/Logo-PuceTriJN.png) Demander une traduction particulière
-Le plus simple pour la version Française est de faire votre souhait au sein du forum francophone FrSky : [http://frskytaranis.forumactif.org/](http://frskytaranis.forumactif.org/t4657-manuels-d-utilisation-frsky-traduits-en-francais). 
-Evidemment la priorité sera donnée aux produits les plus demandés. 
+Le plus simple pour la version française est de formuler votre souhait au sein du forum francophone FrSky : [http://frskytaranis.forumactif.org/](http://frskytaranis.forumactif.org/t4657-manuels-d-utilisation-frsky-traduits-en-francais). 
+Evidemment, la priorité sera donnée aux produits les plus demandés. 
 N'oubliez pas que ces traductions sont réalisées par des bénévoles et qu'il faut en moyenne 8h de travail par page pour un manuel en version `Base`.
 
 <a name="FR_Donate"></a>
@@ -63,7 +63,7 @@ vous en avez la possibilité en cliquant sur le lien suivant : [![<Donate Ceeb18
 > **![>](Latest_release/_media/Logo-Important.png) A lire avant de commencer :**  
 > 1. **Quels documents corriger ?**  
 >    Vous ne devez vérifier que les documents PDF présents dans le répertoire "![>](Latest_release/_media/Logo-Folder.png) **Latest_release**" de la branche "*Master*".  
->    Il est inutile de vous occupez des autres documents.  
+>    Il est inutile de vous occuper des autres documents.  
 >    Il peut subsister des erreurs, même si un document a déjà été relu et/ou corrigé (consulter la note de version correspondant au document pour en savoir plus).
 > 2. **Quel logiciel utiliser pour signaler les erreurs ?**  
 >    Vous devez installer un logiciel gratuit pour **lire** et **commenter** les fichiers **PDF** :  
@@ -75,7 +75,7 @@ vous en avez la possibilité en cliquant sur le lien suivant : [![<Donate Ceeb18
 >    - Chaque erreur est entourée d'une ellipse rouge.
 >    - Chaque erreur est commentée avec une note qui précise l'erreur et qui propose une correction.
 >    
->    Une fois le fichier annoté, enregitrez-le sur votre ordinateur.
+>    Une fois le fichier annoté, enregistrez-le sur votre ordinateur.
 > 4. **Comment soumettre ma correction au dépôt ?**  
 >    Il est impératif de suivre la procédure "**correction de document**".
 >    Cette procédure permet :
@@ -96,11 +96,11 @@ vous en avez la possibilité en cliquant sur le lien suivant : [![<Donate Ceeb18
 2. **Si le problème n'a pas été déclaré**,  
    * Cliquer sur le bouton `New issue`.
    * Indiquer dans le titre de l'`Issue` *le nom complet du fichier* concerné **ET** le mot clef "Correction" (par exemple `X8R-Manuel utilisateur-vFr5.PDF`/**`Correction`**)  
-   * Cliquer sur `selecting them` pour joindre le fichier PDF annoté des vos corrections à l'`Issue`  
+   * Cliquer sur `selecting them` pour joindre le fichier PDF annoté de vos corrections à l'`Issue`  
    * Eventuellement écrire un texte d'accompagnement
 
 3. **La prise en compte du problème** sera effective lorque cette `Issue` sera assignée à un correcteur
-4. **La résolution du problème** sera effective lorsque cette `Issue` sera cloturée par l'Administrateur.
+4. **La résolution du problème** sera effective lorsque cette `Issue` sera clôturée par l'Administrateur.
 
 <a name="FR_TxtOnly"></a>
 ## ![>](Latest_release/_media/Logo-PuceTriJN.png) Proposer de nouvelles traductions littérales sans m'occuper de la mise en page
@@ -109,7 +109,7 @@ vous en avez la possibilité en cliquant sur le lien suivant : [![<Donate Ceeb18
    Vous pouvez proposer votre traduction littérale dans un fichier texte *à joindre* à une `Issue` directement sur GitHub. 
    - Cliquez sur le bouton `New issue`
    - Dans ce cas votre `Issue` doit se nommer : "`Nom du produit` / **`Translation`**"
-   - Attribuer-vous cette `Issue`
+   - Attribuez-vous cette `Issue`
    - En plus de votre message, en bas cliquez sur `selecting them` pour attacher votre fichier de traduction
 
    Note : Pour plus de clarté, vous pouvez formater votre fichier en *MarkDown* comme indiqué dans [ce guide](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
@@ -128,7 +128,7 @@ Assurez-vous d'utiliser la dernière version de ce logiciel sur http://www.inksc
    
    - Cliquez sur le bouton `New issue`
    - Dans ce cas votre `Issue` doit se nommer : "`Nom du produit` / **`Drawing`**"
-   - Attribuer-vous cette `Issue`
+   - Attribuez-vous cette `Issue`
    - En plus de votre message, en bas cliquez sur `selecting them` pour attacher votre partie graphique au format SVG
 
 2. **Cas n°2 - Je sais utiliser Git et GitHub**  
@@ -155,7 +155,7 @@ Vous trouverez dans le dossier **"Working_folder/`Dossier produit`/`Nom produit`
    Vous pouvez proposer votre traduction de chaque fichier SVG *en pièce jointe* à une `Issue` directement sur GitHub.  
    - Cliquez sur le bouton `New issue`
    - Dans ce cas votre `Issue` doit se nommer : "`Nom du produit` / **`Translation`**"
-   - Attribuer-vous cette `Issue`
+   - Attribuez-vous cette `Issue`
    - En plus de votre message, en bas cliquez sur `selecting them` pour attacher votre page nouvellement traduite au format SVG.  
 2. **Cas n°2 - Je sais utiliser Git et GitHub**
   Vous pouvez proposer le ou les traductions au format SVG en effectuant une `Pull request` de votre branche de travail sur la branche `Next_release`, conformément à la procédure décrite dans **[Opérations avec Git et GitHub](#FR_Workflow)**  
@@ -165,14 +165,14 @@ Vous trouverez dans le dossier **"Working_folder/`Dossier produit`/`Nom produit`
 
 Pour réaliser les versions "`Plus`" ou "`Inédites`", il est nécessaire d'avoir des informations complémentaires vérifiées.  
 Il peut s'agir par exemple :
-- de visuels du produit plus pertinent que la représentation de base 
+- de visuels du produit plus pertinents que la représentation de base 
 - de procédures particulières non décrites officiellement
-- d'explication sur des mises en oeuvres particulières
-- de légendes de broches initialement non documentées
-- de rectification d'erreurs exceptionnelles sur le manuel original
+- d'explications sur des mises en oeuvres particulières
+- de légendes de broches (pins) initialement non documentées
+- de rectifications d'erreurs exceptionnelles sur le manuel original
 - etc...
 
-Cet ensemble de données complémentaire peut donc être : des photos, des liens vers des forums de discussion spécialisés, des liens vers des Datasheet de composant, etc...  
+Cet ensemble de données complémentaires peut donc être : des photos, des liens vers des forums de discussion spécialisés, des liens vers des Datasheet de composant, etc...  
 Dans la mesure du possible, écrire ou joindre un message indiquant :  
 - comment utiliser ces informations
 - comment vous avez recoupé les informations.  
@@ -183,7 +183,7 @@ Dans la mesure du possible, écrire ou joindre un message indiquant :
    
    - Cliquez sur le bouton `New issue`
    - Dans ce cas votre `Issue` doit se nommer : "`Nom du produit` / **`New_news`**"
-   - Attribuer-vous cette `Issue`
+   - Attribuez-vous cette `Issue`
    - En plus de votre message, en bas cliquez sur `selecting them` pour attacher une archive de vos documents.
 
 2. **Cas n°2 - Je sais utiliser Git et GitHub**  
@@ -201,20 +201,20 @@ Dans la mesure du possible, écrire ou joindre un message indiquant :
    
    1. Chaque contributeur commence par créer une version locale du dépôt `Master`.
    2. Chaque nouvelle contribution doit commencer par la création d'une `Issue` sur GitHub pour obtenir un numéro identifiant unique (par exemple `#27`). Si une convention existe pour nommer le titre de votre `Issue`, veuillez la respecter.
-   3. Attribuer-vous cette `Issue`. 
-   4. Créer une nouvelle branche, sur votre dépôt local, qui devra être nommmée **`YourGitHubName/name_of_the_issue_27`**
+   3. Attribuez-vous cette `Issue`. 
+   4. Créez une nouvelle branche sur votre dépôt local, qui devra être nommée **`YourGitHubName/name_of_the_issue_27`**
    5. Positionnez-vous sur cette nouvelle branche de votre dépôt local
-   6. Ajouter le cas échéant l'arborescence manquante (voir [Organisation du dossier "Working_folder"](Working_folder/README.MD)). Si c'est une toute nouvelle traduction, il y a de forte chance que le dossier correspondant n'existe pas encore.
-   7. **Sur votre branche locale, créer/modifier le ou les fichiers correspondant à votre `Issue`**
-   8. Sur votre branche locale, indexer et commmiter vos nouveaux fichiers avec un message débutant par #27 puis votre message (si #27 est l'identifiant de l'`Issue`).  
+   6. Ajoutez, le cas échéant, l'arborescence manquante (voir [Organisation du dossier "Working_folder"](Working_folder/README.MD)). Si c'est une toute nouvelle traduction, il y a de fortes chances que le dossier correspondant n'existe pas encore.
+   7. **Sur votre branche locale, créez/modifiez le ou les fichiers correspondants à votre `Issue`**
+   8. Sur votre branche locale, indexez et commmitez vos nouveaux fichiers avec un message débutant par #27 puis votre message (si #27 est l'identifiant de l'`Issue`).  
    Le dernier de vos `commit` doit comporter la mention `Fixed #27` inclus dans le message. Cette dénomination augmentera les chances que l'administrateur remarque que votre travail est prêt à être fusionné (`merge`). 
-   9. Pousser votre branche sur GitHub
+   9. Poussez votre branche sur GitHub
    10. Sur GitHub, cliquez sur `Compare & Pull Request`. Cette demande doit être paramétrée entre **votre branche** et **la branche `Next_release`** (Ne pas faire cette demande avec la branche `Master` qui est la branche par défaut)
-   11. Lorsque cette modification est acceptée par l'Administrateur, vos nouveaux fichiers sont fusionnés à la branche `Next_release`. L'administrateur supprimera sur GitHub la branche temporaire à votre nom.
+   11. Lorsque cette modification est acceptée par l'administrateur, vos nouveaux fichiers sont fusionnés à la branche `Next_release`. L'administrateur supprimera sur GitHub la branche temporaire à votre nom.
    12. L'administrateur fermera le numero `Issue` correspondant
-   13. Lorsque l'administrateur fusionnera (`Merge`) la branche `Next_release` avec `Master`, vos documents feront désormais partis de la prochaine diffusion publique.
+   13. Lorsque l'administrateur fusionnera (`Merge`) la branche `Next_release` avec `Master`, vos documents feront désormais partie de la prochaine diffusion publique.
 
-*CONTRIBUTING.MD / Mis à jour 01-01-2018*
+*CONTRIBUTING.MD / Mis à jour 29-01-2018*
 <BR>
 <BR>
 <BR>
@@ -439,6 +439,6 @@ Whenever possible, write or attach a message indicating:
    12. The administrator will close the corresponding `Issue` number
    13. When the administrator merges the branch` Next_release` with `Master`, your documents will now be part of the next public release.
 
-*CONTRIBUTING.MD / Updated 01-01-2018*
+*CONTRIBUTING.MD / Updated 29-01-2018*
 <BR>
 <BR>

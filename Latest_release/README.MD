@@ -15,34 +15,34 @@
 >FrSky a donné un accord de principe à la mise en place de ce dépôt.  
 >FrSky est informé de toute nouvelle parution de documents sur ce dépôt.  
 >Pour faciliter le contrôle par FrSky :  
->- l'arborescence des dossiers est volontairement en Anglais  
->- tous les fichiers `Readme.md` possèdent une section en Anglais  
->- toutes les notes de versions comportent une section en Anglais  
+>- l'arborescence des dossiers est volontairement en anglais  
+>- tous les fichiers `Readme.md` possèdent une section en anglais  
+>- toutes les notes de versions comportent une section en anglais  
 
 
 # ![Flag FR>](_media/Flag_FR.png "Français") Contenu du dossier "Latest_release" 
 Ce dossier comprend un répertoire par langue  
 ```
 Latest_release/   ; Contient tous les documents finalisés au format PDF
-├── DE/           ; Documents en Allemand  
-├── EN/           ; Documents en Anglais  
-└── FR/           ; Documents en Français
+├── DE/           ; Documents en allemand  
+├── EN/           ; Documents en anglais  
+└── FR/           ; Documents en français
 ```  
 Ce dossier regroupe tous les documents PDF finalisés.  
-Seule les dernières versions sont dans ce répertoire.  
+Seules les dernières versions sont dans ce répertoire.  
 Les versions antérieures sont dans "**Working\_folder**".  
-Le travail de rédaction étant réalisé bénévolement, certain produit ne possède pas encore de traduction.
+Le travail de rédaction étant réalisé bénévolement, certains produits ne possèdent pas encore de traduction.
 
-Selon le produit, vous trouverez ici 1,2 ou 3 types de documentation :
+Selon le produit, vous trouverez ici 1, 2 ou 3 types de documentation :
 
 | Type de version   | Caractéristique de la version                                                    | Convention sur les noms de fichier                          |
 |-------------------|----------------------------------------------------------------------------------|:-----------------------------------------------------------:|
 | Version **Base**  |Traduction **la plus fidèle possible** du document FrSky                          |Le fichier comporte uniquement un numéro de version          |
-| Version **Plus**  |Traduction améliorée du document FrSky **enrichie d'informations** non-officielles|Le nom fichier contient `vPlus` avant son numéro de version  |
-| Version **Inédit**|Documentation **inédite** sur un produit ou une procédure                         |Le nom fichier contient `vInédit` avant son numéro de version|  
+| Version **Plus**  |Traduction améliorée du document FrSky **enrichie d'informations** non-officielles|Le nom du fichier contient `vPlus` avant son numéro de version  |
+| Version **Inédit**|Documentation **inédite** sur un produit ou une procédure                         |Le nom du fichier contient `vInédit` avant son numéro de version|  
 
 Note : Inédit (FR) = Unpublished (EN)  
-Pour les documents Anglais, la version **Base** est le document officiel FrSky disponible sur https://www.frsky-rc.com/.  
+Pour les documents anglais, la version **Base** est le document officiel FrSky disponible sur https://www.frsky-rc.com/.  
 Volontairement, les documents officiels FrSky ne sont pas ici.  
 
 ### ![Puce>](_media/Logo-PuceTriJN.png) Tous les documents français finalisés sont ici : ![Book](_media/Logo-Book.png "Doc PDF") ["Latest_release/FR"](FR) ![Book](_media/Logo-Book.png "Doc PDF")
