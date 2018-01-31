@@ -27,7 +27,8 @@
 ## Sommaire
 - [Récepteur - D8RII Plus](#D8RIIPlus) (8 voies conventionnelles + 2 Analog + 1 Num / D8 / Portée >1,5km)  
 - [Récepteur - X8R](#X8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km / SBUS OUT)  
-- [Récepteur - X6R](#X6R) (6 voies conventionnelles + SPort / D8-D16 / Portée >1,5km)  
+- [Récepteur - X6R](#X6R) (6 voies conventionnelles + SPort + 1 Analog / D8-D16 / Portée >1,5km)  
+- [Récepteur - X4R X4RSB](#X4R) (3/4 voies conventionnelles + SPort + 1 Analog / D16 / Portée >1,5km / SBUS pour X4RSB / CPPM selon config)  
 - [Récepteur - S6R S8R](#S8R_S6R) (6 ou 8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Gyro+Accel intégré / SBUS+RSSI pour le S8R)
 - [Récepteur - G-RX8](#GRX8) (6-8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT / Altimètre intégré)
 - [Récepteur - RX8R](#RX8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT)  
@@ -158,3 +159,10 @@
 
 **![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [R-XSR - Manuel utilisateur - vFr1.pdf](R-XSR%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 28/12/2017)  
 
+------------------------------------------------------------------------------------------------------------
+
+<a name="X4R"></a>
+## Récepteur - X4R et X4RSB
+![R-XSR](../_media/Pdt-X4RSB.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [X4R X4RSB - Manuel utilisateur - vFr1.pdf](X4R%20X4RSB%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 01/02/2018)  
