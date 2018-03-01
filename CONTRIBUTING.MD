@@ -54,7 +54,7 @@ N'oubliez pas que ces traductions sont réalisées par des bénévoles et qu'il 
 <a name="FR_Donate"></a>
 ## ![>](Latest_release/_media/Logo-PuceTriJN.png) Soutenir cette initiative en faisant un don
 Vous souhaitez soutenir cette initiative  en faisant un don,  
-vous en avez la possibilité en cliquant sur le lien suivant : [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Soutenir via CotizUp")](https://www.cotizup.com/ceeb182-nfd01/donation)
+vous en avez la possibilité en cliquant sur le lien suivant : [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Soutenir via CotizUp")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3H34W6LC74WAS)
 
 <a name="FR_Issue"></a>
 ## ![>](Latest_release/_media/Logo-PuceTriJN.png) Vérifier et corriger les traductions déjà réalisées
@@ -273,7 +273,7 @@ Remember that these translations are carried out by volunteers and that it takes
 <a name="EN_Donate"></a>
 ## ![>](Latest_release/_media/Logo-PuceTriJN.png) Support this initiative by making a donation
 You wish to support this initiative by making a donation,  
-you can do so by clicking on the following link : [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Support via CotizUp")](https://www.cotizup.com/ceeb182-nfd01/donation)
+you can do so by clicking on the following link : [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Support via CotizUp")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3H34W6LC74WAS)
 
 
 <a name="EN_Issue"></a>
