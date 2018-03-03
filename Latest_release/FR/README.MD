@@ -32,12 +32,13 @@
 - [Récepteur - S6R S8R](#S8R_S6R) (6 ou 8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Gyro+Accel intégré / SBUS+RSSI pour le S8R)
 - [Récepteur - G-RX8](#GRX8) (6-8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT / Altimètre intégré)
 - [Récepteur - RX8R](#RX8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT)  
+- [Récepteur - XSR](#XSR) (Sorties SBUS et CPPM / D16 / Portée >1,5km)  
 - [Récepteur - R-XSR](#RXSR) (Uniquement SBUS ou CPPM / D16 / Portée >1,5km / Fct redondance SBUS IN)  
 - [Récepteur - XM](#XM) (Uniquement SBUS / D16 / Portée 300m / Pas de télémétrie)  
 - [Récepteur - XM+](#XM+) (Uniquement SBUS / D16 / Portée >1,5km / Pas de télémétrie)  
 - [Récepteur - XMR](#XMR) (6 voies conventionnelles / D16 / Portée 600m / Pas de télémétrie)  
-- [Capteur - VARI-H](#VARIH) (variomètre précision Haute ou Normale)  
-- [Capteur - FLVSS](#FLVSS) (capteur tension pour batterie LiPo)  
+- [Capteur - VARI-H](#VARIH) (Variomètre précision Haute ou Normale)  
+- [Capteur - FLVSS](#FLVSS) (Capteur tension pour batterie LiPo)  
 - [Accessoire - SCC](#SCC) (Changeur d'Id pour servo SBUS ou capteur SPORT)  
 - [Accessoire - RB16](#RB16) (Bus redondant 16 voies pour 2 alimentations et 2 récepteurs + protection contre les surcharges)  
 <BR>
@@ -166,3 +167,11 @@
 ![R-XSR](../_media/Pdt-X4RSB.png)
 
 **![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [X4R X4RSB - Manuel utilisateur - vFr1.pdf](X4R%20X4RSB%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 01/02/2018)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="XSR"></a>
+## Récepteur - XSR
+![R-XSR](../_media/Pdt-XSR.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XSR - Manuel utilisateur - vFr1.pdf](XSR%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 02/03/2018)  
