@@ -4,7 +4,7 @@
 Origin : Information collected on websites  
 Release Date : 2018/03/23  
 Author(s) : Ceeb182 (Ceeb182@laposte.net)  
-Proofreader(s) :   
+Proofreader(s) : @LapinFou  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
