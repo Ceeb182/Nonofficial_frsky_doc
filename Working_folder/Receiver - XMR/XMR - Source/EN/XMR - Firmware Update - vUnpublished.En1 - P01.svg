@@ -822,8 +822,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.033512"
-     inkscape:cx="272.75733"
-     inkscape:cy="48.821927"
+     inkscape:cx="256.70456"
+     inkscape:cy="567.80623"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -983,7 +983,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>Ceeb182 pour http://frskytaranis.forumactif.org</dc:title>
@@ -1067,34 +1067,39 @@
            y="143.76907"
            x="13.707988"
            sodipodi:role="line"
-           id="tspan8607">FrSKy XMR receiver doesn't have any S.Port (nor a S.Bus). Thus, the firmware update is not the same than X6R, X8R, etc. receivers.</tspan><tspan
+           id="tspan8607">FrSKy XMR receiver doesn't have any S.Port (nor a S.Bus). Thus, the firmware update procedure is not the same than X6R, X8R, </tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px"
            y="146.4149"
            x="13.707988"
            sodipodi:role="line"
-           id="tspan8609">The main reason to update the firmware (other than bug fixes) is to switch between the EU-LBT (European standard) and the FCC </tspan><tspan
+           id="tspan4021">etc. receivers.</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px"
            y="149.06075"
            x="13.707988"
            sodipodi:role="line"
-           id="tspan3909">(rest of the World) protocol.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px"
-           y="150.73387"
-           x="13.707988"
-           sodipodi:role="line"
-           id="tspan8597" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px"
-           y="150.73387"
-           x="13.707988"
-           sodipodi:role="line"
-           id="tspan8599" /><tspan
+           id="tspan8609">The main reason to update the firmware (other than bug fixes) is to switch between the EU-LBT (European standard) and the FCC </tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px"
            y="151.70657"
            x="13.707988"
            sodipodi:role="line"
-           id="tspan8601">Generaly speaking, if your XMR has been purchased from an European dealer, the default firmware will be EU-LBT. </tspan><tspan
+           id="tspan3909">(rest of the World) protocol.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px"
+           y="153.3797"
+           x="13.707988"
+           sodipodi:role="line"
+           id="tspan8597" /><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px"
+           y="153.3797"
+           x="13.707988"
+           sodipodi:role="line"
+           id="tspan8599" /><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px"
            y="154.3524"
+           x="13.707988"
+           sodipodi:role="line"
+           id="tspan8601">Generaly speaking, if your XMR has been purchased from an European dealer, the default firmware will be EU-LBT. </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px"
+           y="156.99825"
            x="13.707988"
            sodipodi:role="line"
            id="tspan8581">In the same way, a XMR purchased outside of the European zone, will be flashed with the FCC firmware.</tspan></text>
@@ -1242,7 +1247,7 @@
     </g>
     <g
        id="g1126"
-       transform="translate(0,21.166674)">
+       transform="translate(0,21.695841)">
       <path
          d="M 11.926803,111.61678 H 136.69336"
          style="fill:none;stroke:#231f20;stroke-width:0.14993055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"

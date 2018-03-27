@@ -373,9 +373,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.7516405"
-     inkscape:cx="183.98357"
-     inkscape:cy="41.801152"
+     inkscape:zoom="2.033512"
+     inkscape:cx="310.57992"
+     inkscape:cy="233.68595"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -475,7 +475,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>Ceeb182 pour http://frskytaranis.forumactif.org</dc:title>
@@ -502,7 +502,7 @@
        d="m 11.144589,284.6381 126.516341,-0.002" />
     <g
        id="g8058"
-       transform="matrix(0.35277777,0,0,-0.35277777,0.19916871,300.30426)">
+       transform="matrix(0.35277777,0,0,-0.35277777,-0.03986397,300.30426)">
       <path
          d="m 121.442,553.398 h 281.855 v 26.158 H 121.442 Z"
          style="fill:#d3d2d2;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.75099999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -604,14 +604,12 @@
          sodipodi:role="line"
          x="13.707988"
          y="113.07739"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px">The driver of FrUSB 3 is usually installed automatically on PC computer with Windows 7 (or above), when plugged to the computer</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px">The driver of FrUSB 3 is usually installed automatically on a PC running Windows 7 (or above), when plugged to the computer</tspan><tspan
          sodipodi:role="line"
          x="13.707988"
          y="115.72323"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px"
-         id="tspan16962">the first time. However, if the driver installation fails, download the drivers from :<tspan
-   style="fill:#0000ff"
-   id="tspan16966"></tspan></tspan><tspan
+         id="tspan16962">the first time. However, if the driver installation failed, download the drivers from :</tspan><tspan
          sodipodi:role="line"
          x="13.707988"
          y="118.36906"
@@ -623,7 +621,7 @@
          x="13.707988"
          y="121.01489"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222224px"
-         id="tspan16964">corresponding to your version of Windows.</tspan></text>
+         id="tspan16964">corresponding to your Windows version.</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path8048"
@@ -758,7 +756,7 @@
          x="73.278946"
          y="138.69211"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan17362">     Enter &quot;Device Manager&quot; then click to search result.</tspan><tspan
+         id="tspan17362">     Enter &quot;Device Manager&quot; then click to search results.</tspan><tspan
          sodipodi:role="line"
          x="73.278946"
          y="141.33794"
@@ -775,42 +773,47 @@
          x="73.278946"
          y="146.63989"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan16987">     does exist under the heading &quot;<tspan
+         id="tspan16987">     does exist under the header &quot;<tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
    id="tspan17027">Ports (COM and LPT)</tspan>&quot;.</tspan><tspan
          sodipodi:role="line"
          x="73.278946"
          y="149.28572"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan3037">     If you can't find the line, then the FrUSB3 (FUC3) has failed.</tspan><tspan
+         id="tspan3037">     If you can't find the line, then the FrUSB3 (FUC3) installation </tspan><tspan
          sodipodi:role="line"
          x="73.278946"
          y="151.93155"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan17004">5 - You must remember the COM port number (at the end of the </tspan><tspan
+         id="tspan2833">     has failed.</tspan><tspan
          sodipodi:role="line"
          x="73.278946"
          y="154.57739"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan17376">     &quot;Silicon Labs&quot; line). Knowing this number is mandatory for the</tspan><tspan
+         id="tspan17004">5 - You must remember the COM port number (at the end of the </tspan><tspan
          sodipodi:role="line"
          x="73.278946"
          y="157.22322"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan17378">     next step. In this illustration the COM port number is 3. On your</tspan><tspan
+         id="tspan17376">     &quot;Silicon Labs&quot; line). Knowing this number is mandatory for the</tspan><tspan
          sodipodi:role="line"
          x="73.278946"
          y="159.86905"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan17380">     computer it can be any number depending of the installed</tspan><tspan
+         id="tspan17378">     next step. In this illustration the COM port number is 3. On your</tspan><tspan
          sodipodi:role="line"
          x="73.278946"
          y="162.51488"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan17382">     hardware.</tspan><tspan
+         id="tspan17380">     computer it can be any number depending of the installed</tspan><tspan
          sodipodi:role="line"
          x="73.278946"
          y="165.16072"
+         style="font-size:2.11666656px;stroke-width:0.26458332"
+         id="tspan17382">     hardware.</tspan><tspan
+         sodipodi:role="line"
+         x="73.278946"
+         y="167.80655"
          style="font-size:2.11666656px;stroke-width:0.26458332"
          id="tspan2999" /></text>
     <flowRoot
@@ -852,11 +855,11 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan3052">XMRFCC</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#800000"
-   id="tspan3020">aa</tspan><tspan
+   id="tspan3020">yy</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#008000"
    id="tspan3024">mm</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#0000ff"
-   id="tspan3030">jj</tspan><tspan
+   id="tspan3030">dd</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan3054">.frk</tspan> for the non-European version</tspan><tspan
          sodipodi:role="line"
@@ -867,11 +870,11 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan3056">XMRLBT</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#800000"
-   id="tspan3022">aa</tspan><tspan
+   id="tspan3022">yy</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#008000"
    id="tspan3026">mm</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#0000ff"
-   id="tspan3028">jj</tspan><tspan
+   id="tspan3028">dd</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan3058">.frk</tspan> for the European version</tspan><tspan
          sodipodi:role="line"
@@ -880,13 +883,13 @@
          style="font-size:2.11666656px;stroke-width:0.26458332"
          id="tspan3018">           Note : <tspan
    style="fill:#800000"
-   id="tspan3036">aa</tspan><tspan
+   id="tspan3036">yy</tspan><tspan
    style="fill:#008000"
    id="tspan3034">mm</tspan><tspan
    style="fill:#0000ff"
-   id="tspan3032">jj</tspan> represents the date of the version, <tspan
+   id="tspan3032">dd</tspan> represents the date of the version, <tspan
    style="fill:#800000"
-   id="tspan3038">aa</tspan> for </tspan><tspan
+   id="tspan3038">yy</tspan> for </tspan><tspan
          sodipodi:role="line"
          x="13.757541"
          y="191.45398"
@@ -895,7 +898,7 @@
    style="fill:#008000"
    id="tspan3040">mm</tspan> for the month, <tspan
    style="fill:#0000ff"
-   id="tspan3042">jj</tspan> for the day.</tspan><tspan
+   id="tspan3042">dd</tspan> for the day.</tspan><tspan
          sodipodi:role="line"
          x="13.757541"
          y="194.09981"
@@ -915,7 +918,7 @@
          x="13.757541"
          y="202.03731"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan17390">     file which must be launched is named :</tspan><tspan
+         id="tspan17390">     file which must be launch is named :</tspan><tspan
          sodipodi:role="line"
          x="13.757541"
          y="204.68315"
@@ -926,57 +929,64 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#800000"
    id="tspan3064">##</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan3070">.exe</tspan> (with <tspan
+   id="tspan3070">.exe</tspan> (where <tspan
    style="fill:#800000"
-   id="tspan3066">##</tspan> is version number).</tspan><tspan
+   id="tspan2835">##</tspan> is the version</tspan><tspan
          sodipodi:role="line"
          x="13.757541"
          y="207.32898"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan17059">3 - Plug your FrUSB3 to the computer</tspan><tspan
+         id="tspan2837">     number)</tspan><tspan
          sodipodi:role="line"
          x="13.757541"
          y="209.97481"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan4461">4 - Launch as administrator (right click for the command) the </tspan><tspan
+         id="tspan17059">3 - Plug your FrUSB3 to the computer</tspan><tspan
          sodipodi:role="line"
          x="13.757541"
          y="212.62065"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan17063">     software <tspan
+         id="tspan17063">4 - Launch the executable &quot;<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan3665">frsky_update_sport_rev##.exe</tspan>.</tspan><tspan
+   id="tspan2843">frsky_update_sport_rev<tspan
+   style="fill:#800000"
+   id="tspan2845">##</tspan>.exe</tspan>&quot; as</tspan><tspan
          sodipodi:role="line"
          x="13.757541"
-         y="215.27162"
+         y="215.26648"
+         style="font-size:2.11666656px;stroke-width:0.26458332"
+         id="tspan2841">     an administrator (right click on the file).</tspan><tspan
+         sodipodi:role="line"
+         x="13.757541"
+         y="217.91745"
          style="font-size:2.11666656px;stroke-width:0.26458332"
          id="tspan17068">5 - Select the COM Port of FrUSB3 listed in the &quot;<tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
    id="tspan17074">Device </tspan></tspan><tspan
          sodipodi:role="line"
          x="13.757541"
-         y="217.92259"
+         y="220.56842"
          style="font-size:2.11666656px;stroke-width:0.26458332"
          id="tspan17072">     <tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
-   id="tspan17413">manager</tspan>&quot; (see previous paragraph)</tspan><tspan
-         sodipodi:role="line"
-         x="13.757541"
-         y="220.56842"
-         style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan3078" /><tspan
+   id="tspan17413">manager</tspan>&quot; (see the step 5 on the previous paragraph)</tspan><tspan
          sodipodi:role="line"
          x="13.757541"
          y="223.21426"
          style="font-size:2.11666656px;stroke-width:0.26458332"
-         id="tspan3080" /><tspan
+         id="tspan3078" /><tspan
          sodipodi:role="line"
          x="13.757541"
          y="225.86009"
          style="font-size:2.11666656px;stroke-width:0.26458332"
+         id="tspan3080" /><tspan
+         sodipodi:role="line"
+         x="13.757541"
+         y="228.50592"
+         style="font-size:2.11666656px;stroke-width:0.26458332"
          id="tspan3082" /></text>
     <image
-       y="219.04803"
+       y="221.29478"
        x="22.335733"
        id="image3103"
        xlink:href="data:image/png;base64,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 8UU6o/8P890O1E/JywsAAAAASUVORK5CYII= "
@@ -986,13 +996,13 @@
        width="39.422916" />
     <path
        style="fill:none;stroke:#800000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3116)"
-       d="m 64.92778,216.23956 v 10.86941 h -7.697183"
+       d="m 64.92778,221.60903 v 7.74673 h -7.697183"
        id="path3106"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#800000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 56.606988,228.51201 v -2.64508"
+       d="m 56.606988,230.7588 v -2.64508"
        id="path3238"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1078,7 +1088,7 @@
       </g>
     </g>
     <image
-       y="254.62312"
+       y="256.86987"
        x="22.400789"
        id="image3675-1"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASoAAADKCAYAAAASCQ0ZAAAABmJLR0QA8ADwAPC5DmruAAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4QgbERscBnenSgAAAB1pVFh0Q29tbWVudAAAAAAAQ3Jl YXRlZCB3aXRoIEdJTVBkLmUHAAAWVUlEQVR42u3df1DU953H8eeCFir+2CgiXhMTVvyR1SQetiSF NA1NF0+dWLkU02nuBi61KF6Cm2nsZDNpfoyZ7N2Rm6xmRox1Ipk2k6vcFJILerJN8UzEEZGk0aw/ WDepSc4LQf2ikWgQ9v5gd1lYUECQX6/HjDPu5/v9fva7n+/ui/fnw+5iSlx/xI+IyBA2BuDUU3M1 EiIyJE1//ihRGgYRGeoUVCKioBIRUVCJiIJKRGSwjenJTvv372fGjBl9uoOWlihuvHGaRlpEBjao 4uPjmTZNYSMimvqJiAxcULVebtZIilyDTz75hKSkJEwmEyaTiYyMDAzDGJLnajKZOHjwYLfbDx48 iMlkGvygOnNsN/ufS+fP/xzHseKHOffxXgC+3PMSZyoLOf12Hq1ffUFrfe2VO9q5qu3CpG/A26N7 3skqUzobvD090672720f13qcSM+CKicnh7Nnz1JaWsru3bspLi4ekudaU1PD99Pv7jKsDh48yPfT 76ampmZwg+r00d0c+Pf7MMXFkLTk10z7/kP875/+lb/+p51zh0ppjWqC6DFc2PM4UQkpV37hL9lC 3g4//r1rSR4RTzeFmfTNvffey7PPPovZbGb58uUsWLBgyFZUCxcuZN/e9yLCKhhS+/a+x8KFC/v1 Psf0ZueGI7upfvE+Zv3kaW646S5iJ38H7xuPMHlBBqffe5n5j33A13+t5Fs3ZxB7yz096DEN6yw9 SUXCuVwuPvjgA7Zt2zZkzzE8rPbtfQ9gwEKqVxVVw5Hd7Pu3+7jz1+8wdXYmjZ+/T/S34ph+z0pM wN9kPgemKCam/GOPQmqVaQlbqMI+y0T6Bm+oGlm1Kh2TaRU78bIh3RSas6/a2VX1YsK0agMb0jtt 37mqh9PJQAW0cwPpgftJDy+HvOHtxzvNWtvPzbRqZ6Cv9sdkCp5QWB9tj0uke8XFxTz22GNs27aN BQsWDOlzDQ+rgQwpABLXH/Ffjdfr9X9x8B2/UXfI39LS0ut/XdvhzyPN76oLv40/LdiwI89P3o5u jqnzu9LwhzZ32ndHXnBb5/vo3NZ2n6S5/HV+v99f5/KnddoW7LbOleYnoq+u+uv8mMJu78hrf3wi XTCbzf6XXnpp2JxvTU2Nf2xMrH9sTKy/pqZmQO4jcf0Rf48rqvgF9zLBYh3gjE5jxdLAatUsK2lb lnSscAK258xi+4o6XlkcaFi8nLwtZYFqZSdlh12sW9zz+3S9FlgjS17LU3lVeOoA73EOp7X3k7z2 KfLoVLWZTJhMS9jSXdfe4xwOVlgmE6YlW6jy1KlskG4ZhjHkK6mu1qS6WrMa1MX06yZ5LXv9fl4j p9PUrwpI6/SCX8w612Ge3+DFu+F5Dq9YGlicn4U1ravwmM/sLlfvvRw/3INz824gfQns8Pvx++tw pV1p57zAfoF/ryzWq1G6VVlZyS233DKsQmrhwoXdLrCP/KAK5dVe6lxpHD7uba+6XtvLDjpWW8lL V8D2Qgq3016Vkczs+VXYc9rXq3YW2qnKW057XFSxvTyw1VvO9qo8li8Gkmczv8pOYWip6fn2yqnO Q1WalVmhY7o7+dnMZwvP69eA0kO7d+/mk08+GVYh1dWaVb+HVU/XqPqyNtX7NaqO6zlA4F+ef0fE Pm3rVKH1pcDaVOS6VmC/YF9h+wf7y8tLC23vcHjYOaS5XJH3DX7S8vx5ae3nvSMv0N6+uOVPI+z+ I85PpB3gz83NHfLneKX1qJqaGj/Qr2tUpsT1R/xX+yriEydOkJSU1PeyLer6FG47V5koW+6n57Or nawyPY+1bi9rk/XTXGQoGllfRezdwPO9WkQXkeFiBARV4P1Ws7az4rWR8g53EQnXo6mfiIimfiIi I3vqJyIKKhERBZWIiIJKRBRUIiIKKhEZ5cYANDY2aiRERBWViIiCSkQUVCIiCioREQWViCioREQU VCKioBIRUVCJiCioRERBJSKioBIRUVCJiIJKRERBJSIKKhERBZWIiIJKRBRUIiKDYYyGQAZKWVmZ BmEIycnJGbZ/H0FBJQNq//79GoQhwOl0qqISuZJNmzZpEK7RtVRCDodDUz8RuT4mTZrU62Nee+21 EfHYFVQio6SyGs70Wz8RUVCJiGjqJ8NKS0sLBw4cwDAMUlJSSEhICG27fPkyBw4c4MsvvyQpKYnb brutw7HHjx8nKiqK5OTkiH4/++wzzpw5w+233w7ApUuX2LdvH83Nzdx5551MnDhRg6+gErm6uro6 7r//fr797W8zY8YMDhw4QGFhIQ899BCHDx9m2bJlJCUlMWPGDN59911mzpzJH//4R+Li4gD40Y9+ RENDAwcPHmTevHmhfi9cuEBqaiqnTp3i8uXLnD9/nrvuuovvfe97fPHFFxw6dIja2lqmT5+ui6Cp n8iVPfjgg9x///28//77vPnmmxw/fpx58+bh9/vJzs7m4Ycf5p133mHbtm385S9/4ezZs7zwwgsd Kq7FixfzyiuvdOj39ddf54c//CEAfr+fuLg43n33XX73u99RUVHB5MmTqaioGFFjaTabu/2noBLp o9raWjweD08//XSobfz48SxYsIBDhw7x+eef8/jjj4e2xcXFsXbtWnbu3Nmhn1/84hf8/ve/5+uv vw61bdq0ifz8/NDtsWPHMnXqVADOnTtHQ0MDM2fOHFHjaRhGr9o19ZNemXQNP/Ear+FJOFj3G3Tk yBFuvvlmJkyYELHtxIkTJCUlERsb26F99uzZnDx5skNbcnIyt99+O9u3bycnJ4e9e/cSHR1Nampq h/3eeustXn/9dfbt20deXh533333iHsuGYbRoYIaqSGlikquq8uXL3f9JIyK4ptvvolo//rrrxk/ fnxE+8qVK9myZUuomlq1alXEPqmpqRQUFPDkk0/yyiuv8MYbb4zIMQ2G00gOqcEPKl8RmWFz68wi 31X3MZvtuPtyP5lF+K64kxt7p7m+3a1w6S+33norJ0+epL6+PmKbxWLh448/jngz4/79+7FarRH7 //SnP+XIkSNUVlZSUVHBQw89FLFPYmIi6enprF69mkceeYTf/va3I3ZsR3pIDXpQ2VNKyao1MAwD wyjBeuxE1zumOqk1AvuVQPZVQ6cvgVnInNC5GBhGLXMKuwlP6bWUlBRSUlJYs2YNTU1NAHz00UeU lZUxf/58Zs+ezbp160JV14cffsiLL77Ir371q4i+YmNj+fnPf86KFStYsWJF6LeCQSdPnuTTTz8F oLW1lQ8//JBZs2bpIiio+spKsiX4fxsul+3qh9iWklt9jBMR1Vag0gpUT0X2YJuPotUOqqsdpHRZ tfkoWn2MdUYFi3ZlhlVUG0muqCWrdCMqrPrHW2+9xcWLF7nhhhtITEzkgQcewGw2YzKZKC8v5+OP P2bixIkkJyeTmZnJs88+y3333ddhihgV1faU/eUvf8mZM2dYvXo1ACaTiaioKEwmE2fPniUjI4P5 8+czY8YMzpw5w/r163UBhrFBXUxfmltMtrkYckswehJSgK+okOLULApwY09xYC0xqLCBryiTFLsb owCodnBsnYHhCmTbZielq2FzRT6WiA53cSyrgHxfEZkOKyVGBTZ8FGVuBCwsyvKw0Q02m54s12ra tGm8/fbbnD9/nubmZiZPnhzadtNNN+F2uzl37hwXLlxg2rRpoVAK+vTTT4mOjgbgjjvu4NKlS4wZ 0/YUjomJ4ZtvviE6Opo77rgDr9dLfX09cXFxERWXqKLqFZsrMM1aWt5WxXS3KBSohsxmMymlWdRW 5GPxefGkOikIBIhlURapxeVt1U9Y+1WdOIYnNMWcQ+dfYluSrXqW9LMJEyZ0CKlwEydOZPr06REh BYRCKvRTdsyYK25PSEhQSKmi6tfEwjCWYjeX43bZsHW1RtVVNdQfZs7B6g0GYtuUMvx+fF6Ys0hP FBl8I+UrW4ZdUGXa3VQEp3w+L57UORQE15lSjrHOcNFtYWRJxlqdzUZ3Pi4b+HaVUp27DhteCrus yiJDKNgPjo24812syzW3TUWDzMVtIZmvF4kMrpHw5XfDNqiyPNm0v18tFWdtRS+qJhuuWieZKWba usilxLC1lUARYZQfCqFUZy0V+ZaO/ZSUYzbbKTHa17WkfzidzlH7HUr9PY6jmSlx/RH/0Uf1Yc22 91Fl015P5VJypYquj0bTO9P78o2UMrCG4w+NuS+f0kdoOlRWhoEKqtH9opChSR+hEREFlYjItdLU 73pPhwbpc1mNo+DzYKKKSkREQSUioqASEQWViIiCSkQUVCIiCioREQWViCioREQUVCIiCioRUVCJ iCioRERBJSKioBIRUVCJiIJKRERBJSKioBIRBZWIiIJKRBRUIiIKKhERBZWIjESD+gdIy8rKdAVE BkBOTg6NjY0Kqv6yfPlyPatERFM/EVFQiYgoqEREQSUioqASEVFQiYiCSkRGIjd2sxmz2YzZbMd9 tXZfEZkd9lNQichAx5Q9G0oMDMOg1ukh2x6IIHc5xbklGIZBSW4xhUW+tuaNDqwlLmwKKhG5XtVU eXEuSwOpY1mURarHi6+73X1FFHqcFNgG52zH6IKJCJZkrNXlnAAstgKchSmYzQC5lBgW3HYH1nUG lkE6PVVUItI5tcivaJsSGoYLW6ia6m5NS0ElIteDz4sndQ4zIzdQtLqUrM35WDqtXZVfx6RSUImM SjaWhoWNb1cp1dbkyKmdeyMO6zryLYN7tlqjEhmtUeUqodxsxgy0rUXZIqupQg/Oza7AAUvJzc7G XAykOql1KahE5DpUVS7DoPu8sZBfUdGL/TX1E5FRTEElIgoqEREFlYgoqEREBtug/tYvJydHV0BE hnZQjaQ/5yMimvqJiIJKRERBJSKioBIRBZWIiIJKRERBJSIKKhERBZWIKKhERBRUIiIKKhFRUImI KKhERBRUIqKgEhEZGPq7fiJX4XA4NAjXyOl0Ds2gmjRpkq5OH5hMJgzD0DgPsXHetGmTBq0P1qxZ M/QrKn3VcO+UlZVpnDXOo36cu6I1KhEZ8hRUIqKgEhFRUImIgkpEREElIqKgEhEFlYiIgqqfNVTx 6qtVNOjaD89x1/XrOV8RmZlF+EbAQxkzIl8QW/dQ36HRStbKePa+BcuWAUQTNz6GqK8u0Traw6PT WFmznmDZnIG6w/4a91Fy/XxFZKY4qO7QmIqztoJ8y+h6qo7MDyUnZLD2sUwSOzQ2M39lCzEX9ugn bXdjVV/Jxpf+hR3ZT7BkpoZmSEh1UluRj2WUD8PI/faEloucD/+J21DFq2EVVWRFkcA9Kx8mLX4U PguCYxWTQk5eM8X/VcuFuSnEnQofHytZTyxjTnAcH04jvqGKV7c2kP7EMubQQNWrVUxZ1la5zo3f wx5PWJU2pbtKLtAv0FD1Klv3BOu7sOvRufJLyNCUbjVkWR04ituacksMXLYuqrBUp4JqyKqvZMNT lRFTP4gmLi7YdpSyrQ2kP/kMCyfEEl1fycb/qGH+P32XiaN5PjjZzORTdZyOuYF3tu4h/oFnKPhu LKcrN/LSf3/Cb/5uCvH1dTSNj+FM1VHirQmc+Gwc8288TQNTmR83BlP9Oxg/foZnfhZL7PE/4Hin lvuWh497V/3eQnzawzyZMZ4JsdHw0R9w1JwkY8nXlITt33adRtHiarWDFLOjY4W1ua392DoDwwW4 7ZgLiyiwJbMxxYG1xKDC1h5oCqrhNPWr/xNV4SsaX9bTgAfPC89RGmqcjzEuBvNoX7sCWk83cDoh gxXfjaW1qZGYGbNIqPDw8d//hDnWKr44HU1zQzy33pvI3vc8jJ1wmob4aSTSgD8hg4zbYoluaqQx diIJrS2M+VZ0+7gnZPBgRL+zuPHk/7A1vHKaNoVz51s77P/V+Yu0tESPnuvT1dTPVwSpTgpsgdsz 55AK4PPiSXWy2aap3/Cd+p1vxh+c8l1lLasJRm9QNZymIWEqUwM3o1oucrE5FF+0jh1LYryfulNH +aIhnh8k3sqt/1fJ0bMQf2sGUa17QuMfOs7fGjGeEf2erWLb1qPMzXuGgqT2yomo1i72l9Fm9L6P amoC8fWVVB66yPnGRhpD/5oYva+HY7y1dQ/xP7iHaVPimVJfSWVgnanh+FHqrfOwAvGz59Ja+Wca 5s1jetRkZs1t5UNPFNMSomm93NKzce+iXxLm8bdJY2k+38iJgx9wqqWZ1qkJxNd7+OjLsP31uu2a JRlrdSm7Au9H8O0q7fQbQ1VUw9Bclq/M4NWtz/FCqMK6h5UPpzGq1tM7rOclcM/K3/DjmbG0NiWx bGUGxaHxsfLAM7cR3XyJ5vgp8IWfeT/7DlHNTUyeAoePTeXR6dDyWW/HPdBv9CXS4tezwdF2LglW KwmmaKKYy/Ksj3hhw3P8qUP7KF2jIhXnm1nd7GzDVVKOOcWMA0jNzW2bEo4ApsT1R/xHH53e7x1P mjRp8L4RMSqG8eOgqfNaU7C9CcYFt0fFMH5CbPuksPOU8ToqKysjNze3119FfE3j3Pnx08LF819x qbWr7c00hSrOsYybFENLcN+x45gU09I2dp3H/6rj3t7v2HGTGDc2cCbNzRDV0rb/2HFMCmzo0H4d xtnhcLBp0yZ9w2cfxnn//v3AtX1n+tyXT43Qiqr1El99deX20PbWS3zVeGn0Ppuu9vi73d5MU2PY JLm5idDNzuPfi3FvbmqkyzhobkI5oTUqEREFlYiIgkpEFFQiIgoqEREFlYgMVwP69oT+/EuponHW OCuo+p3JZNLoXgca5+tjzZo1GoSRGFS9eXe1aJxFBm3qJzISXMvHP6R/aDFdRBRUIiIKKhFRUImI KKhERBRUIqKgEhFRUImIgkpEREElIqKgEhEFlYjISA0qtx2z2YzZbMbu7sVxviIyM4vwDcQ5DWTf IjLcgsqNPduDs9bAqHXiKexDOAylUFHAiQyqgfmaF58XD1aWWgDyqajoQx+WPh43EIbSuYioouof 9hQH1RSTbTZjvucfuCezCF+gKimymyOnhL4iMgNt5hQH1eFVTE+PM5sxd1X1dNV3xLGZFPmCbXbc 4ZWh2Y67Q0Xlxm7udC5d9SUiQzuoXLVOUlOd1BoGRnE6scEN1Q6OLTUwDAOjJJfiwiJ8uLGnOLCW BNprnaR27rCvx3W7jxt7yjHWGcH2LEpXF+Gz5LMut5jyYFK5yynOXYqtPfUoysyGYH+GgcvWTV96 bokM8alfd1KdFARf9TPntIWGz4sn1clm2wAc190+Pi8eiik2F4c15nICsC3NJbvcjctmw13uwVng AryB43ZRSqf+rtCXRc8vkWEYVP3pxDGqmXNNoVlbkR8ZJrYCnIUbcQPlniwKLHDV8qi7vkRk6E79 esWSjLW6lF2+YNFS2r6OdCW2peSGHdervi3JWKsdbOzybRMWFmV5KLeX48la1DF8LIvIotNxV+qr 85rX1W6LyBANKmy4Sqw4UtoWo1cfs3ax1nT14zoslF+1bxuuWiee7K4X4i2LsvAUw7p8S0SI5W/u eJzdfeW+ROTamRLXH/EffXT68H8kbjvm8qUYLpuuqsgIMvflU8P7z2W57Wayi4O3cikxFFIiI9Gw Diqby8Bw6SKKjHT6ULKIKKhERBRUIqKgEhEZbGOg7dd/IiJD1f8DHsEog7KzehAAAAAASUVORK5C YII= "
@@ -1090,27 +1100,27 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="13.741861"
-       y="248.07022"
+       y="250.4558"
        id="text3010-9-3"><tspan
          sodipodi:role="line"
          x="13.741861"
-         y="248.07022"
+         y="250.4558"
          style="font-size:2.11666656px;stroke-width:0.26458332"
          id="tspan4530">6 - Click on &quot;<tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
    id="tspan17124">File</tspan>&quot; button, then select the firmware file :</tspan><tspan
          sodipodi:role="line"
          x="13.741861"
-         y="250.71605"
+         y="253.10162"
          style="font-size:2.11666656px;stroke-width:0.26458332"
          id="tspan9327"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332"
-   id="tspan4538">     XMRFCCaammjj.frk</tspan> or <tspan
+   id="tspan4538">     XMRFCCyymmdd.frk</tspan> or <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332"
-   id="tspan3611-4">XMRLBTaammjj.frk</tspan>. The status </tspan><tspan
+   id="tspan3611-4">XMRLBTyymmdd.frk</tspan>. The status </tspan><tspan
          sodipodi:role="line"
          x="13.741861"
-         y="253.36703"
+         y="255.75261"
          style="font-size:2.11666656px;stroke-width:0.26458332"
          id="tspan17132">     will display &quot;<tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
@@ -1123,13 +1133,13 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#800000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9635)"
-       d="m 67.53001,251.74262 v 28.0309 H 36.753234"
+       d="m 67.53001,253.98941 v 28.0309 H 36.753234"
        id="path9625"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#800000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 36.174948,280.8354 v -2.07006"
+       d="m 36.174948,283.08219 v -2.07006"
        id="path3238-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1137,27 +1147,27 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="12.007644"
-       y="266.86472"
+       y="269.11151"
        id="text3010-9-3-3"><tspan
          sodipodi:role="line"
          x="12.007644"
-         y="266.86472"
+         y="269.11151"
          style="font-size:1.76388884px;line-height:1;fill:#800000;stroke-width:0.26458332"
          id="tspan9881">Green/Red </tspan><tspan
          sodipodi:role="line"
          x="12.007644"
-         y="268.6286"
+         y="270.8754"
          style="font-size:1.76388884px;line-height:1;fill:#800000;stroke-width:0.26458332"
          id="tspan17198">alternately</tspan></text>
     <path
        style="fill:none;stroke:#800000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9635-5)"
-       d="m 11.953498,269.30215 h 23.598781 v -3.48818"
+       d="m 11.953498,271.54894 h 23.598781 v -3.48818"
        id="path9625-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#800000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 36.586113,265.21759 h -2.07006"
+       d="m 36.586113,267.46438 h -2.07006"
        id="path3238-8-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
