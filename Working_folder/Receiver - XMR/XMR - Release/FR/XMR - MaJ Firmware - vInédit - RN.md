@@ -11,7 +11,7 @@
 Origine : Informations collectées sur des sites Web  
 Date d'édition : 2018/03/23  
 Auteur(s) : Ceeb182 (Ceeb182@laposte.net)  
-Correcteur(s) :   
+Correcteur(s) : @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
@@ -31,7 +31,7 @@ Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa
 Origin : Information collected on websites  
 Release Date : 2018/03/23  
 Author(s) : Ceeb182 (Ceeb182@laposte.net)  
-Proofreader(s) :   
+Proofreader(s) : @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
