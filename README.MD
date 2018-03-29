@@ -54,7 +54,7 @@ Vous trouverez aussi d'autres de mes documents sur OpenTx directement sur le tr�
 Je fais cela bénévolement, sur mon temps personnel. Je laisse libre d'accès les documents et les fichiers de travail correspondants. 
 
 >**Vous souhaitez soutenir cette initiative  en faisant un don,  
->vous en avez la possibilité en cliquant sur le lien suivant :** [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Soutenir via CotizUp")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3H34W6LC74WAS)
+>vous en avez la possibilité en cliquant sur le lien suivant :** [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Soutenir via Paypal")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3H34W6LC74WAS)
 
 <a name="FR_Soft"></a>
 ### ![Puce>](Latest_release/_media/Logo-PuceTriJN.png) Quels sont les logiciels utilisés pour réaliser ces documents ?
@@ -99,7 +99,7 @@ Vous voulez participer mais vous ne savez pas par quoi commencer : [vous trouver
 
 Vous souhaitez me contacter : voici mon adresse mail *Ceeb182@laposte.net* (faisant cela bénévolement, le délai de réponse peut parfois être aléatoire)
 
-Vous préférez contribuer en me soutenant financièrement, alors cliquez sur ce lien : [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Soutenir via CotizUp")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3H34W6LC74WAS)
+Vous préférez contribuer en me soutenant financièrement, alors cliquez sur ce lien : [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Soutenir via Paypal")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3H34W6LC74WAS)
 
 <a name="FR_Licence"></a>
 ### ![Puce>](Latest_release/_media/Logo-PuceTriJN.png) Quelle est la licence des documents ?
@@ -165,7 +165,7 @@ You will also find more of my documents on OpenTx directly on the very good Fren
 I do this on a volunteer basis, during my spare time. I leave free access to the documents and the corresponding work files
 
 >**You wish to support this initiative by making a donation,  
->you can do so by clicking on the following link :** [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Support via CotizUp")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3H34W6LC74WAS)
+>you can do so by clicking on the following link :** [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Support via Paypal")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3H34W6LC74WAS)
 
 <a name="EN_Soft"></a>
 ### ![Puce>](Latest_release/_media/Logo-PuceTriJN.png) What softwares are used to make these documents ?
@@ -210,7 +210,7 @@ You want to participate but you do not know where to start : [you will find here
 
 You wish to contact me : here is my email address *Ceeb182@laposte.net* (doing this voluntarily, the response time can sometimes be random)
 
-You prefer to contribute by supporting me financially, then click on this link: [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Support via CotizUp")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3H34W6LC74WAS)
+You prefer to contribute by supporting me financially, then click on this link: [![<Donate Ceeb182>](Latest_release/_media/Logo-DonateCeeb182.png "Support via Paypal")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3H34W6LC74WAS)
 
 <a name="EN_Licence"></a>
 ### ![Puce>](Latest_release/_media/Logo-PuceTriJN.png) What is the license of the documents ?
