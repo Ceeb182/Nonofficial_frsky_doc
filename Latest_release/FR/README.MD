@@ -25,6 +25,7 @@
 - ![<B>](../_media/B-Inedit.png) : documentation *inédite* sur un produit ou une procédure
 
 ## Sommaire
+- [Récepteur - D4RII](#D4RII) (2-4 voies conventionnelles + RSSI et CPPM en option + 1 Analog + 1 Num / D8 / Portée >1,5km)  
 - [Récepteur - D8RII Plus](#D8RIIPlus) (8 voies conventionnelles + 2 Analog + 1 Num / D8 / Portée >1,5km)  
 - [Récepteur - X8R](#X8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km / SBUS OUT)  
 - [Récepteur - X6R](#X6R) (6 voies conventionnelles + SPort + 1 Analog / D8-D16 / Portée >1,5km)  
@@ -32,8 +33,9 @@
 - [Récepteur - S6R S8R](#S8R_S6R) (6 ou 8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Gyro+Accel intégré / SBUS+RSSI pour le S8R)
 - [Récepteur - G-RX8](#GRX8) (6-8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT / Altimètre intégré)
 - [Récepteur - RX8R](#RX8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT)  
-- [Récepteur - XSR](#XSR) (Sorties SBUS et CPPM / D16 / Portée >1,5km)  
-- [Récepteur - R-XSR](#RXSR) (Uniquement SBUS ou CPPM / D16 / Portée >1,5km / Fct redondance SBUS IN)  
+- [Récepteur - XSR](#XSR) (Sorties SBUS et CPPM + SPort / D16 / Portée >1,5km)  
+- [Récepteur - XSR-M](#XSRM) (Uniquement SBUS ou CPPM + SPort / D16 / Portée >1,5km)  
+- [Récepteur - R-XSR](#RXSR) (Uniquement SBUS ou CPPM + Sport / D16 / Portée >1,5km / Fct redondance SBUS IN)  
 - [Récepteur - XM](#XM) (Uniquement SBUS / D16 / Portée 300m / Pas de télémétrie)  
 - [Récepteur - XM+](#XM+) (Uniquement SBUS / D16 / Portée >1,5km / Pas de télémétrie)  
 - [Récepteur - XMR](#XMR) (6 voies conventionnelles / D16 / Portée 600m / Pas de télémétrie)  
@@ -42,6 +44,11 @@
 - [Accessoire - SCC](#SCC) (Changeur d'Id pour servo SBUS ou capteur SPORT)  
 - [Accessoire - RB16](#RB16) (Bus redondant 16 voies pour 2 alimentations et 2 récepteurs + protection contre les surcharges)  
 <BR>
+
+------------------------------------------------------------------------------------------------------------
+
+>**Vous souhaitez soutenir cette initiative  en faisant un don,  
+>vous en avez la possibilité en cliquant sur le lien suivant :** [![<Donate Ceeb182>](../_media/Logo-DonateCeeb182.png "Soutenir via Paypal")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3H34W6LC74WAS)
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -127,6 +134,7 @@
 ![XMR](../_media/Pdt-XMR.png)
 
 **![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XMR - Manuel utilisateur - vFr1.pdf](XMR%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 23/10/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Inedit.png) [XMR - MaJ Firmware - vInédit.Fr1.pdf](XMR%20-%20MaJ%20Firmware%20-%20vInédit.Fr1.pdf)** (MaJ 31/03/2018)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -175,3 +183,19 @@
 ![R-XSR](../_media/Pdt-XSR.png)
 
 **![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XSR - Manuel utilisateur - vFr1.pdf](XSR%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 02/03/2018)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="XSRM"></a>
+## Récepteur - XSR-M
+![XSR-M](../_media/Pdt-XSRM.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XSR-M - Manuel utilisateur - vFr1.pdf](XSR-M%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 31/03/2018)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="D4RII"></a>
+## Récepteur - D4R-II
+![D4R-II](../_media/Pdt-D4RII.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [D4R-II - Manuel utilisateur - vFr1.pdf](D4R-II%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 31/03/2018)  
