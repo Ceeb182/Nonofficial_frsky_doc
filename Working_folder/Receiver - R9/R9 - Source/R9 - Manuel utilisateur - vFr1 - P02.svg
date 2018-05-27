@@ -19,7 +19,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
      id="metadata821"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs819"><marker
        inkscape:stockid="Arrow2Send"
        orient="auto"
@@ -371,9 +371,9 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.73180105"
-     inkscape:cx="160.60592"
-     inkscape:cy="344.11739"
+     inkscape:zoom="2.0698459"
+     inkscape:cx="322.83355"
+     inkscape:cy="169.55546"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -658,6 +658,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#696969;fill-opacity:0.99215686;stroke:none"
@@ -668,6 +669,7 @@
      id="tspan18554-0"
      x="539.34259"
      y="784.31335">Ceeb182 sur https://github.com/Ceeb182/Nonofficial_frsky_doc</tspan></text>
+
 
 
 
@@ -731,6 +733,7 @@
      x="-31.383797"
      y="512.71088"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.8876586px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.88314861">QR Code</tspan></text>
+
 
 
 
@@ -845,6 +848,7 @@
 
 
 
+
 </g><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -855,6 +859,7 @@
      id="tspan6517"
      x="350.19379"
      y="56.318649">Manuel d'utilisation du récepteur R9 de FrSky</tspan></text>
+
 
 
 
@@ -881,6 +886,7 @@
      id="tspan6814-2-6-4-3-4"
      x="45.907665"
      y="489.71585">Déclaration pour la FCC (Federal Communications Commission)</tspan></text>
+
 
 
 
@@ -1121,6 +1127,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1130,7 +1137,8 @@
      sodipodi:role="line"
      id="tspan1856"
      x="343.50385"
-     y="373.69092"></tspan></text>
+     y="373.69092" /></text>
+
 <g
    id="barcode"
    style="fill:#000000"
@@ -6611,6 +6619,7 @@
      id="tspan6814-2-6-4-3-4-2-1-3-5"
      x="45.907669"
      y="315.75586">Comment configurer le mode de Failsafe (en utilisant l'émetteur)</tspan></text>
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot12446-8-3"
@@ -6634,6 +6643,7 @@
      id="tspan16407-6"
      x="45.87899"
      y="279.67883">--</tspan></text>
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot12446-8"
@@ -6657,6 +6667,7 @@
      id="tspan16407"
      x="45.869808"
      y="259.59848">--</tspan></text>
+
 <rect
    style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69921261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect6826-3-5-9-6"
@@ -6686,6 +6697,7 @@
      id="tspan6103-4"
      x="52.135235"
      y="211.90308">Note : </tspan></text>
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot12446"
@@ -6733,6 +6745,7 @@
      id="tspan6103-4-3-3"
      x="52.13522"
      y="451.91199">Note : </tspan></text>
+
 <rect
    style="opacity:1;fill:none;fill-opacity:1;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect6676"
@@ -6757,19 +6770,19 @@
      id="flowPara22709">FrSky ne cesse d'ajouter des fonctionnalités et des améliorations à ses produits. Pour tirer parti du meilleur de votre produit, merci de vérifier dans la section téléchargement du site web FrSky www.frsky-rc.com que vous possédez la dernière mise à jour du micro-logiciel (Firmware) et du manuel d'utilisation.</flowPara></flowRoot><flowRoot
    xml:space="preserve"
    id="flowRoot21177"
-   style="display:inline;opacity:1;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
    transform="translate(0,-7.3286009)"><flowRegion
      id="flowRegion21179"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:justify;text-anchor:start"><rect
        id="rect21181"
        width="471.56"
-       height="149.28648"
+       height="158.46591"
        x="45.976494"
        y="543.44116"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:justify;text-anchor:start" /></flowRegion><flowPara
      id="flowPara21183">2. Les changements ou les modifications non approuvées expressément par l'autorité responsable de la certification peuvent annuler l'autorisation faite à l'utilisateur d'utiliser cet équipement.</flowPara><flowPara
-     id="flowPara21185"></flowPara><flowPara
-     id="flowPara21187">NOTE : Cet équipement a été testé et trouvé conforme avec les limites édictée pour un appareil numériques de Classe B, conformément à l'article 15 des règles de la FCC. Ces limites sont définies pour fournir une protection raisonnable contre les interférences nuisibles à une installation résidentielle. Cet équipement a de multiples usages et peut émettre de l'énergie radiofréquence qui, s'il n'est pas installé et utilisé conformément aux instructions, peuvent causer des interférences nuisibles aux communications radio. Si cet équipement provoque des interférences nuisibles à la réception de la radio ou de la télévision, qui peut être confirmé en éteignant et en allumant l'équipement, l'utilisateur est encouragé à corriger ce problème d'interférence par une ou plusieurs des mesures suivantes :</flowPara><flowPara
+     id="flowPara21185" /><flowPara
+     id="flowPara8392">NOTE : Cet équipement a été testé et trouvé conforme avec les limites édictées pour un appareil numérique de Classe B, conformément à l'article 15 des règles de la FCC. Ces limites sont définies pour fournir une protection raisonnable contre les interférences nuisibles à une installation résidentielle. Cet équipement a de multiples usages et peut émettre de l'énergie radiofréquence qui peut causer des interférences nuisibles aux communications radio s'il n'est pas installé et utilisé conformément aux instructions. Malgré tout, il n'y a aucune garantie qu'aucune interférence ne se produira pour une installation particulière. Si cet équipement provoque des interférences nuisibles à la réception de la radio ou de la télévision, ce qui peut être confirmé en éteignant et en allumant l'équipement, l'utilisateur est encouragé à corriger ce problème d'interférence par une ou plusieurs des mesures suivantes :</flowPara><flowPara
      id="flowPara21189">  - Réorienter ou repositionner l'antenne de réception.</flowPara><flowPara
      id="flowPara21191">  - Augmenter la séparation entre l'équipement et le récepteur.</flowPara><flowPara
      id="flowPara21193">  - Connecter l'équipement sur une prise d'un circuit différent de celui sur lequel le récepteur est connecté.</flowPara><flowPara
@@ -7068,36 +7081,40 @@
            style="fill:#d3d2d2;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.75099999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 121.158,550.335 h 281.855 v 26.158 H 121.158 Z" /></g><g
          id="g11360"><text
-           id="text11364"
-           style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:12.17590046px;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:FranklinGothic-MediumCond;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-0.98555343,154.9018,776.034)"><tspan
-             id="tspan11362"
-             y="0"
-             x="0">I</tspan></text>
+   id="text11364"
+   style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:12.17590046px;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:FranklinGothic-MediumCond;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-0.98555343,154.9018,776.034)"><tspan
+     id="tspan11362"
+     y="0"
+     x="0">I</tspan></text>
+
 <text
-           id="text11368"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-0.98559515,16.716478,556.7744)"><tspan
-             id="tspan11366"
-             sodipodi:role="line"
-             y="0"
-             x="0 2.30825">•</tspan></text>
+   id="text11368"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-0.98559515,16.716478,556.7744)"><tspan
+     id="tspan11366"
+     sodipodi:role="line"
+     y="0"
+     x="0 2.30825">•</tspan></text>
+
 <text
-           id="text11372"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-0.98559515,16.716478,541.1744)"><tspan
-             id="tspan11370"
-             sodipodi:role="line"
-             y="0"
-             x="0 2.30825">•</tspan></text>
+   id="text11372"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-0.98559515,16.716478,541.1744)"><tspan
+     id="tspan11370"
+     sodipodi:role="line"
+     y="0"
+     x="0 2.30825">•</tspan></text>
+
 <text
-           id="text11376"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-0.98559515,16.716478,525.5744)"><tspan
-             id="tspan11374"
-             sodipodi:role="line"
-             y="0"
-             x="0 2.30825">•</tspan></text>
+   id="text11376"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-0.98559515,16.716478,525.5744)"><tspan
+     id="tspan11374"
+     sodipodi:role="line"
+     y="0"
+     x="0 2.30825">•</tspan></text>
+
 </g><g
          transform="translate(16.4565,577.034)"
          id="g11378"><path
@@ -7106,26 +7123,29 @@
            style="fill:none;stroke:#231f20;stroke-width:0.42500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="M 0,0 H 353.669" /></g><g
          id="g11382"><text
-           id="text11386"
-           style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.62418461px;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:FranklinGothic-MediumCond;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-0.98560038,16.580655,580.083)"><tspan
-             id="tspan11384"
-             y="0"
-             x="0">H</tspan></text>
+   id="text11386"
+   style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.62418461px;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:FranklinGothic-MediumCond;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-0.98560038,16.580655,580.083)"><tspan
+     id="tspan11384"
+     y="0"
+     x="0">H</tspan></text>
+
 <text
-           id="text11390"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.59502983px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-0.98559066,16.716575,566.776)"><tspan
-             id="tspan11388"
-             y="0"
-             x="0">T</tspan></text>
+   id="text11390"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.59502983px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-0.98559066,16.716575,566.776)"><tspan
+     id="tspan11388"
+     y="0"
+     x="0">T</tspan></text>
+
 <text
-           id="text11394"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0.999908,0,0,-1,22.148062,477.734)"><tspan
-             id="tspan11392"
-             y="0"
-             x="0">N</tspan></text>
+   id="text11394"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(0.999908,0,0,-1,22.148062,477.734)"><tspan
+     id="tspan11392"
+     y="0"
+     x="0">N</tspan></text>
+
 </g><g
          transform="translate(-17.181,214.756)"
          id="g11396"><path
@@ -7134,12 +7154,13 @@
            style="fill:none;stroke:#231f20;stroke-width:0.42500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 387.307,249.598 H 33.637 v 21.728 h 353.67 z" /></g><g
          id="g11400"><text
-           id="text11404"
-           style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.62418461px;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:FranklinGothic-MediumCond;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-0.98560038,16.830655,449.677)"><tspan
-             id="tspan11402"
-             y="0"
-             x="0">F</tspan></text>
+   id="text11404"
+   style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.62418461px;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:FranklinGothic-MediumCond;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-0.98560038,16.830655,449.677)"><tspan
+     id="tspan11402"
+     y="0"
+     x="0">F</tspan></text>
+
 </g><g
          transform="translate(16.4565,446.564)"
          id="g11406"><path
@@ -7148,19 +7169,21 @@
            style="fill:none;stroke:#231f20;stroke-width:0.42500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="M 0,0 H 353.669" /></g><g
          id="g11410"><text
-           id="text11414"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0.999908,0,0,-1,17.383001,436.287)"><tspan
-             id="tspan11412"
-             y="0"
-             x="0">1</tspan></text>
+   id="text11414"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(0.999908,0,0,-1,17.383001,436.287)"><tspan
+     id="tspan11412"
+     y="0"
+     x="0">1</tspan></text>
+
 <text
-           id="text11418"
-           style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.62418461px;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:FranklinGothic-MediumCond;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-0.98560038,16.830655,632.789)"><tspan
-             id="tspan11416"
-             y="0"
-             x="0">H</tspan></text>
+   id="text11418"
+   style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.62418461px;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:FranklinGothic-MediumCond;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-0.98560038,16.830655,632.789)"><tspan
+     id="tspan11416"
+     y="0"
+     x="0">H</tspan></text>
+
 </g><g
          transform="translate(16.4565,629.007)"
          id="g11420"><path
@@ -7169,21 +7192,23 @@
            style="fill:none;stroke:#231f20;stroke-width:0.42500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="M 0,0 H 353.669" /></g><g
          id="g11424"><text
-           id="text11428"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0.999908,0,0,-1,17.383901,618.185)"><tspan
-             id="tspan11426"
-             sodipodi:role="line"
-             y="0"
-             x="0 2.1645">--</tspan></text>
+   id="text11428"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(0.999908,0,0,-1,17.383901,618.185)"><tspan
+     id="tspan11426"
+     sodipodi:role="line"
+     y="0"
+     x="0 2.1645">--</tspan></text>
+
 <text
-           id="text11432"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0.99990769,0,0,-1,17.38388,602.58445)"><tspan
-             id="tspan11430"
-             sodipodi:role="line"
-             y="0"
-             x="0 2.1645 4.329">--</tspan></text>
+   id="text11432"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(0.99990769,0,0,-1,17.38388,602.58445)"><tspan
+     id="tspan11430"
+     sodipodi:role="line"
+     y="0"
+     x="0 2.1645 4.329">--</tspan></text>
+
 </g><g
          transform="translate(-17.181,214.756)"
          id="g11434"><path
@@ -7192,17 +7217,19 @@
            style="fill:none;stroke:#231f20;stroke-width:0.42525002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 387.307,431.094 H 33.637 v 21.728 h 353.67 z" /></g><g
          id="g11438"><text
-           id="text11442"
-           style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0.999908,0,0,-1,22.148062,659.23)"><tspan
-             id="tspan11440"
-             y="0"
-             x="0">N</tspan></text>
+   id="text11442"
+   style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(0.999908,0,0,-1,22.148062,659.23)"><tspan
+     id="tspan11440"
+     y="0"
+     x="0">N</tspan></text>
+
 <text
-           id="text11446"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0.999908,0,0,-1,16.454586,753.376)"><tspan
-             id="tspan11444"
-             y="0"
-             x="0">i</tspan></text>
+   id="text11446"
+   style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(0.999908,0,0,-1,16.454586,753.376)"><tspan
+     id="tspan11444"
+     y="0"
+     x="0">i</tspan></text>
+
 </g></g></g></svg>

@@ -368,8 +368,8 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.4636021"
-     inkscape:cx="104.73618"
-     inkscape:cy="85.837604"
+     inkscape:cx="276.91412"
+     inkscape:cy="260.74853"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -667,6 +667,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#696969;fill-opacity:0.99215686;stroke:none"
@@ -677,6 +678,7 @@
      id="tspan18554-0"
      x="539.34259"
      y="784.31335">Ceeb182 sur https://github.com/Ceeb182/Nonofficial_frsky_doc</tspan></text>
+
 
 
 
@@ -741,6 +743,7 @@
      x="-31.383797"
      y="512.71088"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.8876586px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.88314861">QR Code</tspan></text>
+
 
 
 
@@ -857,6 +860,7 @@
 
 
 
+
 </g><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -867,6 +871,7 @@
      id="tspan6517"
      x="350.19379"
      y="56.318649">Manuel d'utilisation du récepteur R9 de FrSky</tspan></text>
+
 
 
 
@@ -888,6 +893,7 @@
      id="tspan6814-2-6-4-3"
      x="45.907665"
      y="621.1944">Procédure d'appairage</tspan></text>
+
 
 
 
@@ -932,6 +938,7 @@
 
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path8052-9-5-0-2-9-7"
@@ -946,6 +953,7 @@
      id="tspan6814-2-6-4-3-4-2"
      x="45.907665"
      y="87.689156">Introduction</tspan></text>
+
 
 
 
@@ -981,6 +989,7 @@
      id="tspan6814-2-6-4-3-4-2-1-3"
      x="45.907669"
      y="297.51581">Spécifications</tspan></text>
+
 
 
 
@@ -1181,6 +1190,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.33333349px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -1197,6 +1207,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
@@ -1207,6 +1218,7 @@
      id="tspan12229-0-6"
      x="360.62418"
      y="188.65228">LED Verte</tspan></text>
+
 
 
 
@@ -1232,6 +1244,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
@@ -1242,6 +1255,7 @@
      id="tspan12229-0-6-9-3"
      x="474.03934"
      y="188.70934">Statut</tspan></text>
+
 
 
 
@@ -1273,6 +1287,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.33333349px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -1283,6 +1298,7 @@
      id="tspan12229-0-3-6"
      x="360.66568"
      y="246.77209">ÉTEINTE</tspan></text>
+
 
 
 
@@ -1413,6 +1429,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.10000002;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1424,6 +1441,7 @@
      y="745.8327"
      style="font-size:5.33333349px;line-height:1.10000002"
      id="tspan29106">(1) CC signifie Courant Continu et est la traduction française de l'acronyme anglais DC.</tspan></text>
+
 
 
 
@@ -2255,6 +2273,7 @@
 
 
 
+
 </g><g
    transform="translate(191.38,632.381)"
    id="g1401"><path
@@ -2352,6 +2371,7 @@
 
 
 
+
 </g><text
    transform="scale(1,-1)"
    id="text5169"
@@ -2367,6 +2387,7 @@
 
 
 
+
 <text
    transform="scale(1,-1)"
    id="text5169-7"
@@ -2379,6 +2400,7 @@
      x="14.343918"
      id="tspan5167-3"
      sodipodi:role="line">Sortie SBUS</tspan></text>
+
 
 
 
@@ -2406,6 +2428,7 @@
 
 
 
+
 <text
    transform="scale(1,-1)"
    id="text5169-7-53"
@@ -2418,6 +2441,7 @@
      x="168.49553"
      id="tspan5167-3-9"
      sodipodi:role="line">LED</tspan></text>
+
 
 
 
@@ -2436,6 +2460,7 @@
 
 
 
+
 <text
    transform="scale(1,-1)"
    id="text5169-7-3-6"
@@ -2448,6 +2473,7 @@
      x="196.01039"
      id="tspan5167-3-8-3"
      sodipodi:role="line">Bouton d'appairage</tspan></text>
+
 
 
 
@@ -2464,6 +2490,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.33333349px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -2474,6 +2501,7 @@
      id="tspan12229-0-4"
      x="409.65665"
      y="203.90443">ALLUMÉE</tspan></text>
+
 
 
 
@@ -2490,6 +2518,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.33333349px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -2500,6 +2529,7 @@
      id="tspan12229-0-6-9-6-0-07"
      x="409.42191"
      y="246.76599">Clignotante</tspan></text>
+
 
 
 
@@ -2516,6 +2546,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.33333349px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -2526,6 +2557,7 @@
      id="tspan12229-0-3-6-7-9"
      x="474.10977"
      y="246.72527">Signal Perdu</tspan></text>
+
 
 
 
@@ -2542,6 +2574,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.33333349px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -2552,6 +2585,7 @@
      id="tspan12229-0-3-6-7-9-2"
      x="474.16934"
      y="203.94884">En attente d'appairage</tspan></text>
+
 
 
 
@@ -2650,6 +2684,7 @@
      id="tspan12229-0-3-6-94"
      sodipodi:role="line">R9</tspan></text>
 
+
 <text
    id="text12231-5-8-8-5-7"
    y="366.45251"
@@ -2660,6 +2695,7 @@
      x="89.545349"
      id="tspan12229-0-3-6-94-1"
      sodipodi:role="line">Mode R9M</tspan></text>
+
 
 <text
    id="text12231-5-8-8-5-2"
@@ -2672,6 +2708,7 @@
      id="tspan12229-0-3-6-94-4"
      sodipodi:role="line">Nombre de voies</tspan></text>
 
+
 <text
    id="text12231-5-8-8-5-4"
    y="351.38571"
@@ -2683,6 +2720,7 @@
      id="tspan12229-0-3-6-94-2"
      sodipodi:role="line">Version EU (Européenne)</tspan></text>
 
+
 <text
    id="text12231-5-8-8-5-7-9"
    y="366.38055"
@@ -2693,6 +2731,7 @@
      x="177.0296"
      id="tspan12229-0-3-6-94-1-5"
      sodipodi:role="line">Avec Télémétrie</tspan></text>
+
 
 <text
    id="text12231-5-8-8-5-7-8"
@@ -2707,6 +2746,7 @@
    id="tspan1860"
    style="font-size:6.66666651px">OIES</tspan></tspan></text>
 
+
 <text
    id="text12231-5-8-8-5-7-1"
    y="366.38159"
@@ -2717,6 +2757,7 @@
      x="264.51135"
      id="tspan12229-0-3-6-94-1-54"
      sodipodi:role="line">Sans Télémétrie</tspan></text>
+
 
 <text
    id="text12231-5-8-8-5-7-6"
@@ -2731,6 +2772,7 @@
    id="tspan1862"
    style="font-size:6.66666651px">OIES</tspan></tspan></text>
 
+
 <text
    id="text12231-5-8-8-5-7-4"
    y="351.34998"
@@ -2742,6 +2784,7 @@
      id="tspan12229-0-3-6-94-1-90"
      sodipodi:role="line">Version Non-EU</tspan></text>
 
+
 <text
    id="text12231-5-8-8-5-7-17"
    y="366.38165"
@@ -2752,6 +2795,7 @@
      x="351.97391"
      id="tspan12229-0-3-6-94-1-1"
      sodipodi:role="line">Avec Télémétrie</tspan></text>
+
 
 <text
    id="text12231-5-8-8-5-7-5"
@@ -2766,6 +2810,7 @@
    id="tspan1864"
    style="font-size:6.66666651px">OIES</tspan></tspan></text>
 
+
 </g><text
    xml:space="preserve"
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -2776,6 +2821,7 @@
      id="tspan1856"
      x="343.50385"
      y="373.69092" /></text>
+
 
 <flowRoot
    xml:space="preserve"
@@ -2813,7 +2859,7 @@
        style="font-size:8px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
      id="flowPara1924-2">• Longue portée</flowPara><flowPara
      id="flowPara2059">• Faible latence et haute précision</flowPara><flowPara
-     id="flowPara2061">• Dotée de la fonction redondance</flowPara><flowPara
+     id="flowPara2061">• Doté de la fonction redondance</flowPara><flowPara
      id="flowPara2063">• Smart Port activé et doté de la fonction transmission des données télémétriques</flowPara><flowPara
      id="flowPara2065">• Mesure de la tension batterie</flowPara></flowRoot><flowRoot
    xml:space="preserve"
@@ -8339,6 +8385,7 @@
 
 
 
+
 </g><g
          transform="translate(14.865,748.086)"
          id="g10311"><path
@@ -8353,6 +8400,7 @@
      id="tspan10317"
      y="0"
      x="0">T</tspan></text>
+
 
 
 
@@ -8373,6 +8421,7 @@
 
 
 
+
 <text
    id="text10333"
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -8380,6 +8429,7 @@
      id="tspan10331"
      y="0"
      x="0">•</tspan></text>
+
 
 
 
@@ -8393,6 +8443,7 @@
 
 
 
+
 <text
    id="text10341"
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -8400,6 +8451,7 @@
      id="tspan10339"
      y="0"
      x="0">•</tspan></text>
+
 
 
 
@@ -8413,6 +8465,7 @@
 
 
 
+
 <text
    id="text10349"
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -8423,6 +8476,7 @@
 
 
 
+
 <text
    id="text10353"
    style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:8.62418461px;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:FranklinGothic-MediumCond;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -8430,6 +8484,7 @@
      id="tspan10351"
      y="0"
      x="0">S</tspan></text>
+
 
 
 
@@ -8450,6 +8505,7 @@
 
 
 
+
 <text
    id="text10367"
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -8457,6 +8513,7 @@
      id="tspan10365"
      y="0"
      x="0">•</tspan></text>
+
 
 
 
@@ -8470,6 +8527,7 @@
 
 
 
+
 <text
    id="text10375"
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -8477,6 +8535,7 @@
      id="tspan10373"
      y="0"
      x="0">•</tspan></text>
+
 
 
 
@@ -8490,6 +8549,7 @@
 
 
 
+
 <text
    id="text10383"
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -8497,6 +8557,7 @@
      id="tspan10381"
      y="0"
      x="0">•</tspan></text>
+
 
 
 
@@ -8510,6 +8571,7 @@
 
 
 
+
 <text
    id="text10391"
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -8520,6 +8582,7 @@
 
 
 
+
 <text
    id="text10395"
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.59499979px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -8527,6 +8590,7 @@
      id="tspan10393"
      y="0"
      x="0">•</tspan></text>
+
 
 
 
@@ -8575,6 +8639,7 @@
      sodipodi:role="line"
      y="0"
      x="0 4.868361 7.973073 11.810842 14.173873 17.278585 19.210405 23.048174">Overview</tspan></text>
+
 
 
 
@@ -8811,6 +8876,7 @@
 
 
 
+
 </g><g
          transform="translate(14.2389,256.1)"
          id="g10605"><path
@@ -8852,6 +8918,7 @@
 
 
 
+
 <text
    id="text10633"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -8859,6 +8926,7 @@
      id="tspan10631"
      y="0"
      x="0">B</tspan></text>
+
 
 
 
