@@ -39,6 +39,8 @@
 - [Récepteur - XM](#XM) (Uniquement SBUS / D16 / Portée 300m / Pas de télémétrie)  
 - [Récepteur - XM+](#XM+) (Uniquement SBUS / D16 / Portée >1,5km / Pas de télémétrie)  
 - [Récepteur - XMR](#XMR) (6 voies conventionnelles / D16 / Portée 600m / Pas de télémétrie)  
+- [Récepteur - R9](#R9) (8 voies conventionnelles + SPort / R9M / Portée >10km / Fct redondance SBUS IN / SBUS OUT)  
+- [Module d'émission - R9M](#R9M) (Longue portée 868MHz)
 - [Capteur - VARI-H](#VARIH) (Variomètre précision Haute ou Normale)  
 - [Capteur - FLVSS](#FLVSS) (Capteur tension pour batterie LiPo)  
 - [Accessoire - SCC](#SCC) (Changeur d'Id pour servo SBUS ou capteur SPORT)  
@@ -116,7 +118,7 @@
 ## Récepteur - XM
 ![XM](../_media/Pdt-XM.png)
 
-**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM - Manuel utilisateur - vFr1.pdf](XM%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 19/10/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM - Manuel utilisateur - vFr2.pdf](XM%20-%20Manuel%20utilisateur%20-%20vFr2.pdf)** (MaJ 06/06/2018)  
 
 
 ------------------------------------------------------------------------------------------------------------
@@ -125,7 +127,7 @@
 ## Récepteur - XM+
 ![XM+](../_media/Pdt-XM+.png)
 
-**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM+ - Manuel utilisateur - vFr1.pdf](XM+%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 19/10/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XM+ - Manuel utilisateur - vFr2.pdf](XM+%20-%20Manuel%20utilisateur%20-%20vFr2.pdf)** (MaJ 06/06/2018)  
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -133,7 +135,7 @@
 ## Récepteur - XMR
 ![XMR](../_media/Pdt-XMR.png)
 
-**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XMR - Manuel utilisateur - vFr1.pdf](XMR%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 23/10/2017)  
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [XMR - Manuel utilisateur - vFr2.pdf](XMR%20-%20Manuel%20utilisateur%20-%20vFr2.pdf)** (MaJ 06/06/2018)  
 **![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Inedit.png) [XMR - MaJ Firmware - vInédit.Fr1.pdf](XMR%20-%20MaJ%20Firmware%20-%20vInédit.Fr1.pdf)** (MaJ 31/03/2018)  
 
 ------------------------------------------------------------------------------------------------------------
@@ -199,3 +201,19 @@
 ![D4R-II](../_media/Pdt-D4RII.png)
 
 **![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [D4R-II - Manuel utilisateur - vFr1.pdf](D4R-II%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 31/03/2018)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="R9M"></a>
+## Module d'émission - R9M
+![R9M](../_media/Pdt-R9M.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [R9M Tx EU - Manuel utilisateur - vFr1.pdf](R9M%20Tx%20EU%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 06/06/2018)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="R9"></a>
+## Récepteur - R9
+![R9](../_media/Pdt-R9.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [R9 - Manuel utilisateur - vFr1.pdf](R9%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 06/06/2018)  
