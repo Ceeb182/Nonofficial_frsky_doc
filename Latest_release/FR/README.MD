@@ -40,7 +40,11 @@
 - [Récepteur - XM+](#XM+) (Uniquement SBUS / D16 / Portée >1,5km / Pas de télémétrie)  
 - [Récepteur - XMR](#XMR) (6 voies conventionnelles / D16 / Portée 600m / Pas de télémétrie)  
 - [Récepteur - R9](#R9) (8 voies conventionnelles + SPort / R9M / Portée >10km / Fct redondance SBUS IN / SBUS OUT)  
-- [Module d'émission - R9M](#R9M) (Longue portée 868MHz)
+- [Récepteur - R9 Slim](#R9Slim) (6 voies conventionnelles + SPort / R9M / Portée >10km / Fct redondance SBUS IN / SBUS OUT / RSSI / Vcc=3,5~10V)  
+- [Récepteur - R9 Slim+](#R9SlimPlus) (6 voies conventionnelles + SPort / R9M / Portée >10km / Fct redondance SBUS IN / SBUS OUT / RSSI, SPORT inversé, SBUS inversé / Vcc=3,5~**12,6V**)  
+- [Récepteur - R9 Mini](#R9Mini) (4 voies conventionnelles + SPort ou FPort / R9M / Portée >10km / Fct redondance SBUS IN / SBUS OUT)  
+- [Module d'émission - R9M](#R9M) (Longue portée 868MHz / Format baie JR standard)
+- [Module d'émission - R9M Lite](#R9MLite) (Longue portée 868MHz / Faible latence / Format baie Taranis X-Lite)
 - [Capteur - VARI-H](#VARIH) (Variomètre précision Haute ou Normale)  
 - [Capteur - FLVSS](#FLVSS) (Capteur tension pour batterie LiPo)  
 - [Accessoire - SCC](#SCC) (Changeur d'Id pour servo SBUS ou capteur SPORT)  
@@ -217,3 +221,36 @@
 ![R9](../_media/Pdt-R9.png)
 
 **![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [R9 - Manuel utilisateur - vFr1.pdf](R9%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 06/06/2018)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="R9MLite"></a>
+## Module d'émission - R9M Lite
+![R9M Lite](../_media/Pdt-R9MLite.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [R9M Lite LBT - Manuel utilisateur - vFr1.pdf](R9M%20Lite%20LBT%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 01/07/2018)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="R9Slim"></a>
+## Récepteur - R9 Slim
+![R9Slim](../_media/Pdt-R9Slim.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [R9 Slim - Manuel utilisateur - vFr1.pdf](R9%20Slim%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 01/07/2018)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="R9SlimPlus"></a>
+## Récepteur - R9 Slim+
+![R9SlimPlus](../_media/Pdt-R9SlimPlus.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [R9 Slim+ - Manuel utilisateur - vFr1.pdf](R9%20Slim+%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 01/07/2018)  
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="R9Mini"></a>
+## Récepteur - R9 Mini
+![R9Mini](../_media/Pdt-R9Mini.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [R9 Mini - Manuel utilisateur - vFr1.pdf](R9%20Mini%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 01/07/2018)  
+
