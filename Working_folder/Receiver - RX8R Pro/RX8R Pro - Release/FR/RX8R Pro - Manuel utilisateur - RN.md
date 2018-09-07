@@ -11,7 +11,7 @@
 Origine : RX8R PRO-Manual vEN 2018-03-07.pdf  
 Date d'édition : 2018/09/02  
 Auteur(s) : Ceeb182 (Ceeb182@laposte.net)  
-Correcteur(s) :   
+Correcteur(s) : @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
@@ -29,7 +29,7 @@ Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa
 Origin : RX8R PRO-Manual vEN 2018-03-07.pdf  
 Release Date : 2018/09/02  
 Author(s) : Ceeb182 (Ceeb182@laposte.net)  
-Proofreader(s) :   
+Proofreader(s) : @mipel85  
 Source(s) : https://github.com/Ceeb182/Nonofficial_frsky_doc  
 Licence : Creative Commons By Sa 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)  
 
