@@ -33,6 +33,7 @@
 - [Récepteur - S6R S8R](#S8R_S6R) (6 ou 8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Gyro+Accel intégré / SBUS+RSSI pour le S8R)
 - [Récepteur - G-RX8](#GRX8) (6-8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT / Altimètre intégré)
 - [Récepteur - RX8R](#RX8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT)  
+- [Récepteur - RX8R PRO](#RX8RPRO) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT / Résistant aux interférences)  
 - [Récepteur - XSR](#XSR) (Sorties SBUS et CPPM + SPort / D16 / Portée >1,5km)  
 - [Récepteur - XSR-M](#XSRM) (Uniquement SBUS ou CPPM + SPort / D16 / Portée >1,5km)  
 - [Récepteur - R-XSR](#RXSR) (Uniquement SBUS ou CPPM + Sport / D16 / Portée >1,5km / Fct redondance SBUS IN)  
@@ -253,4 +254,14 @@
 ![R9Mini](../_media/Pdt-R9Mini.png)
 
 **![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [R9 Mini - Manuel utilisateur - vFr1.pdf](R9%20Mini%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 01/07/2018)  
+
+
+------------------------------------------------------------------------------------------------------------
+
+<a name="RX8RPRO"></a>
+## Récepteur - RX8R PRO
+![RX8R PRO](../_media/Pdt-RX8RPRO.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [RX8R Pro - Manuel utilisateur - vFr1.pdf](RX8R%20Pro%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 26/09/2018)  
+
 

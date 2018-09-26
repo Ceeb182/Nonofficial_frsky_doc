@@ -1,6 +1,6 @@
 [![Logo Dépos](_media/Logo-NonofficialFrSkydocuments-h41.png "Traductions de documents FrSky")](https://github.com/Ceeb182/Nonofficial_frsky_doc)  
 
-## ![Logo_Updated](_media/Logo-Updated.png) Released in July 2018 - v9.0 - [![Info](_media/Logo-Info.png "Info")](https://github.com/Ceeb182/Nonofficial_frsky_doc/releases)  
+## ![Logo_Updated](_media/Logo-Updated.png) Released in September 2018 - v10.0 - [![Info](_media/Logo-Info.png "Info")](https://github.com/Ceeb182/Nonofficial_frsky_doc/releases)  
 
 [![Flag FR>](_media/Flag_FRh11.png "Français")](#FR_Section) **Bienvenue** / [Cliquez sur votre langue](#FR_Section)  
 [![Flag EN>](_media/Flag_ENh11.png "English")](#EN_Section) **Welcome** / [Click on your language](#EN_Section)  
