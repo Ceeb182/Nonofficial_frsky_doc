@@ -53,7 +53,7 @@ Volontairement, les documents officiels FrSky ne sont pas ici.
 
 <br>
 
-![<Logo CCBYSA>](_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Auteur : Ceeb182@laposte.net / 2017-2018 / Source : github/ceeb182/nonofficial_frsky_doc*
+![<Logo CCBYSA>](_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Auteur : Ceeb182@laposte.net / 2017-2019 / Source : github/ceeb182/nonofficial_frsky_doc*
 <br>
 <br>
 <br>
@@ -105,4 +105,4 @@ Voluntarily, FrSky official documents are not here.
 ### ![Puce>](_media/Logo-PuceTriJN.png) All finalized english documents are here: ![Book](_media/Logo-Book.png "Doc PDF") ["Latest_release/EN"](EN) ![Book](_media/Logo-Book.png "Doc PDF")
 <br>
 
-![<Logo CCBYSA>](_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Author : Ceeb182@laposte.net / 2017-2018 / Source : github/ceeb182/nonofficial_frsky_doc*
+![<Logo CCBYSA>](_media/Logo-CCBYSAh22.png "Creatice Commons By Sa") *Author : Ceeb182@laposte.net / 2017-2019 / Source : github/ceeb182/nonofficial_frsky_doc*
