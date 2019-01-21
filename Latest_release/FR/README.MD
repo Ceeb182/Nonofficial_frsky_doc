@@ -31,6 +31,7 @@
 - [Récepteur - X6R](#X6R) (6 voies conventionnelles + SPort + 1 Analog / D8-D16 / Portée >1,5km)  
 - [Récepteur - X4R X4RSB](#X4R) (3/4 voies conventionnelles + SPort + 1 Analog / D16 / Portée >1,5km / SBUS pour X4RSB / CPPM selon config)  
 - [Récepteur - S6R S8R](#S8R_S6R) (6 ou 8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Gyro+Accel intégré / SBUS+RSSI pour le S8R)
+- [Récepteur - G-RX6](#GRX6) (6 voies conventionnelles + SPort/ D16 / Portée >2km / Fct redondance SBUS IN / SBUS OUT / Altimètre intégré / A2)
 - [Récepteur - G-RX8](#GRX8) (6-8 voies conventionnelles + SPort/ D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT / Altimètre intégré)
 - [Récepteur - RX8R](#RX8R) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT)  
 - [Récepteur - RX8R PRO](#RX8RPRO) (8 voies conventionnelles + SPort / D8-D16 / Portée >1,5km / Fct redondance SBUS IN / SBUS OUT / Résistant aux interférences)  
@@ -265,3 +266,10 @@
 **![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [RX8R Pro - Manuel utilisateur - vFr1.pdf](RX8R%20Pro%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 26/09/2018)  
 
 
+------------------------------------------------------------------------------------------------------------
+
+<a name="GRX6"></a>
+## Récepteur - G-RX6
+![G-RX6](../_media/Pdt-GRX6.png)
+
+**![<Fr>](../_media/Flag_FRh11.png) ![<B>](../_media/B-Base.png) [G-RX6 - Manuel utilisateur - vFr1.pdf](G-RX6%20-%20Manuel%20utilisateur%20-%20vFr1.pdf)** (MaJ 21/01/2019)  
