@@ -214,7 +214,7 @@ Dans la mesure du possible, écrire ou joindre un message indiquant :
    12. L'administrateur fermera le numero `Issue` correspondant
    13. Lorsque l'administrateur fusionnera (`Merge`) la branche `Next_release` avec `Master`, vos documents feront désormais partie de la prochaine diffusion publique.
 
-*CONTRIBUTING.MD / Mis à jour 11-01-2019*
+*CONTRIBUTING.MD / Mis à jour 15-11-2020*
 <BR>
 <BR>
 <BR>
@@ -439,6 +439,6 @@ Whenever possible, write or attach a message indicating:
    12. The administrator will close the corresponding `Issue` number
    13. When the administrator merges the branch` Next_release` with `Master`, your documents will now be part of the next public release.
 
-*CONTRIBUTING.MD / Updated 11-01-2019*
+*CONTRIBUTING.MD / Updated 15-11-2020*
 <BR>
 <BR>
